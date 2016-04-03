@@ -1,0 +1,20 @@
+{
+  "name": "khk_library",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "csv-parse": "^1.0.2",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0",
+    "sqlite3": "^3.1.3",
+    "term-spinner": "^1.0.0"
+  }
+}
