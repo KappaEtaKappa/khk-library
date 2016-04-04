@@ -32,6 +32,9 @@ function khkOrGoogleOrNaN(khk, google){
 	return i;
 }
 
+global.running = 0;
+global.max = 40;
+
 db.serialize(function() {
 	if(exists)
 		db.run("DROP TABLE library;");
@@ -41,7 +44,7 @@ db.serialize(function() {
 								 "isbn_13 TEXT,"+
 								 "sbn TEXT,"+
 								 "title TEXT,"+
-								 "author TEXT,"+
+								 "authors TEXT,"+
 								 "publisher TEXT,"+
 								 "published_date TEXT,"+
 								 "description TEXT,"+
@@ -69,93 +72,104 @@ db.serialize(function() {
 				spinner.next();
 				process.stdout.clearLine();
 				process.stdout.cursorTo(0);
-				process.stdout.write([spinner.current, "Processing..."].join(" "));
+				process.stdout.write([spinner.current, "("+doneCount+"/"+188+")"+" Processing..."].join(" "));
 			}, 100);
 			var doneCount = 1;
 			db.serialize(function(){	
-				for(var i=0; i<data.length-1; i++){
-					var bookIsbn = data[i][3];
-					if(data[i][1].length > 1) bookIsbn = data[i][1];
-					if(data[i][2].length > 1) bookIsbn = data[i][2];
 
-					isbn.resolve(bookIsbn,function(err, book){
-						if(err){ console.log(err); book={imageLinks:{}}; }
+				data.forEach(function(val, index, arr){	
+					var go4it = function(val, index, arr){
+						running++;
+						var bookIsbn = val[3];
+						if(val[1].length > 1) bookIsbn = val[1];
+						if(val[2].length > 1) bookIsbn = val[2];
 
-						if(book.imageLinks == undefined)
-							book.imageLinks = {};
+						isbn.resolve(bookIsbn,function(err, book){
+							if(err){ console.log(err); book={imageLinks:{}}; }
+							else console.log('\n#'+val[0]+' "'+book.title+'" shelved.')
+							
+							if(book.imageLinks == undefined)
+								book.imageLinks = {};
 
-						try{
-						  	var insert =	"INSERT INTO library (" +
-											"khk_id, " +
-											"isbn_10, " +
-											"isbn_13, " +
-											"sbn, " +
-											"title, " +
-											"author, " +
-											"notes, " +
-											"publisher,"+
-											"published_date,"+
-											"description,"+
-											"industry_identifiers,"+
-											"page_count,"+
-											"categories,"+
-											"average_rating,"+
-											"ratings_count,"+
-											"content_version,"+
-											"thumbnail,"+
-											"small_thumbnail,"+
-											"language,"+
-											"preview_link,"+
-											"info_link,"+
-											"canonical_volume_link"+										
-										  ") VALUES (" +
-											khkOrGoogleOrNaN(parseInt(data[i][0]),null) + "," +
-											khkOrGoogleOrNull(data[i][1],undefined) + "," +
-											khkOrGoogleOrNull(data[i][2],undefined) + "," +
-											khkOrGoogleOrNull(data[i][3],undefined) + "," +
-											khkOrGoogleOrNull(data[i][4],book.title) + "," +
-											khkOrGoogleOrNull(data[i][5],book.author) + "," +
-											khkOrGoogleOrNull(data[i][6],undefined) + "," +
-											khkOrGoogleOrNull("",book.publisher) + "," +
-											khkOrGoogleOrNull("",book.publishedDate) + "," +
-											khkOrGoogleOrNull("",book.description) + "," +
-											khkOrGoogleOrNull("",JSON.stringify(book.industryIdentifiers)) + "," +
-											khkOrGoogleOrNaN(null,book.pageCount) + "," +
-											khkOrGoogleOrNull("",escape(JSON.stringify(book.categories))) + "," +
-											khkOrGoogleOrNaN(null,book.averageRating) + "," +
-											khkOrGoogleOrNaN(null,book.ratingCount) + "," +
-											khkOrGoogleOrNull("",book.contentVersion) + "," +
-											khkOrGoogleOrNull("",book.imageLinks.thumbnail, true)  + "," +
-											khkOrGoogleOrNull("",book.imageLinks.smallThumbnail, true)  + "," +
-											khkOrGoogleOrNull("",book.language)  + "," +
-											khkOrGoogleOrNull("",book.previewLink, true)  + "," +
-											khkOrGoogleOrNull("",book.infoLink, true)  + "," +
-											khkOrGoogleOrNull("",book.canonicalVolumeLink, true) + ");";
-										}catch(e){
-											console.log("Error on item " + i);
-											console.log("Data: ", data[i])
-											console.log("Google Data: ", book);
-											console.log("Error ", e);
-											process.exit(1);
-										}
-						db.run(insert, function(err){
-							if(err){ console.log(insert, err); process.exit(1);
 
-								console.log("Error on item " + i);
-								console.log("Data: ", data[i], book);
-								console.log(e);
-								process.exit(1);
-							}
-							doneCount++;
-							if(doneCount == data.length){
-								clearInterval(spinnerInv);
-								console.log("Done!");
-								console.log(doneCount + " books shelved.");
-								process.exit(0);
-							}
-						});	
-					});
-				}
+							try{
+							  	var insert =	"INSERT INTO library (" +
+												"khk_id, " +
+												"isbn_10, " +
+												"isbn_13, " +
+												"sbn, " +
+												"title, " +
+												"authors, " +
+												"notes, " +
+												"publisher,"+
+												"published_date,"+
+												"description,"+
+												"industry_identifiers,"+
+												"page_count,"+
+												"categories,"+
+												"average_rating,"+
+												"ratings_count,"+
+												"content_version,"+
+												"thumbnail,"+
+												"small_thumbnail,"+
+												"language,"+
+												"preview_link,"+
+												"info_link,"+
+												"canonical_volume_link"+										
+											  ") VALUES (" +
+												khkOrGoogleOrNaN(parseInt(val[0]),null) + "," +
+												khkOrGoogleOrNull(val[1],undefined) + "," +
+												khkOrGoogleOrNull(val[2],undefined) + "," +
+												khkOrGoogleOrNull(val[3],undefined) + "," +
+												khkOrGoogleOrNull(val[4],book.title) + "," +
+												khkOrGoogleOrNull(val[5],escape(JSON.stringify(book.authors))) + "," +
+												khkOrGoogleOrNull(val[6],undefined) + "," +
+												khkOrGoogleOrNull("",book.publisher) + "," +
+												khkOrGoogleOrNull("",book.publishedDate) + "," +
+												khkOrGoogleOrNull("",book.description) + "," +
+												khkOrGoogleOrNull("",JSON.stringify(book.industryIdentifiers)) + "," +
+												khkOrGoogleOrNaN(null,book.pageCount) + "," +
+												khkOrGoogleOrNull("",escape(JSON.stringify(book.categories))) + "," +
+												khkOrGoogleOrNaN(null,book.averageRating) + "," +
+												khkOrGoogleOrNaN(null,book.ratingCount) + "," +
+												khkOrGoogleOrNull("",book.contentVersion) + "," +
+												khkOrGoogleOrNull("",book.imageLinks.thumbnail, true)  + "," +
+												khkOrGoogleOrNull("",book.imageLinks.smallThumbnail, true)  + "," +
+												khkOrGoogleOrNull("",book.language)  + "," +
+												khkOrGoogleOrNull("",book.previewLink, true)  + "," +
+												khkOrGoogleOrNull("",book.infoLink, true)  + "," +
+												khkOrGoogleOrNull("",book.canonicalVolumeLink, true) + ");";
+											}catch(e){
+												console.log("Error on item " + i);
+												console.log("Data: ", val)
+												console.log("Google Data: ", book);
+												console.log("Error ", e);
+												process.exit(1);
+											}
+							db.run(insert, function(err){
+								if(err){ console.log(insert, err); process.exit(1);}
+								running--;
+								doneCount++;
+								if(doneCount == data.length){
+									clearInterval(spinnerInv);
+									console.log("Done!");
+									console.log(doneCount + " books shelved.");
+									process.exit(0);
+								}
+							});	
+						});
+					};
+
+					var check = function(val, index, arr){
+						if(running < max)
+							go4it(val,index,arr);
+						else
+							setTimeout(function(){
+								check(val,index,arr);
+							}, Math.random()*500);
+					}
+					check(val, index, arr);
+				});
 			});
 		});
 	});
