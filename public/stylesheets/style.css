@@ -1,88 +1,135 @@
-body {
-  background: url("./public/images/bg.jpg;");
-  background: no-repeat center center fixed; 
-  background-size:cover;
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+/*
+Result page CSS styles
+*/
+
+.rbody{
+    background: #8636B2;
+    width: auto;
+    height: auto;
 }
 
-#khk-logo {
-  position: fixed;
-  left: 0px;
-  right: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 275px;
-  height: 275px;
+.lib-main {
+    border: 2px solid black;
+    background-color: #fff;
+    padding: 0px 50px 100px 50px;
 }
 
-.library-name {
-  position: fixed;
-  left: 52.5%;
-  right: 0px;
-  top: 36.5%;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: Orbitron, Monospace;
-  letter-spacing: 3px;
-  font-size: 36px;
-  color: #D7D700;
+.queries {
+    margin: 50px 0px 50px 0px;
+    padding: 20px;
+    min-height: 200px;
+    max-height: none;
+}
+
+.imgarea {
+    display:inline-block;
+    width: 10%;
+    float: left;
+}
+
+.info {
+    display:inline-block;
+    border: 1px solid black;
+    width: 89%;
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
+
+.extra {
+    margin-left: -15px;
+}
+
+.imgarea img {
+    width: 100%;
+}
+
+.info h1, p {
+    margin-left: 25px;
+    font: sans-serif;
+}
+
+.info ul li {
+    margin: 0 25px 0 0;
+    display: inline;
+    list-style-type: none;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/*
+Search page CSS style
+*/
+
+
+.sbody{
+    background: #949494;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+    border: solib black 1px;
+    padding-top: 25px;
+}
+
+.logo img {
+    max-height: 250px;
+    width: 100%;
+}
+
+.name {
+    text-align: center;
+}
+
+.search p {
+    font-size: 20px;
+    font-color: #e5c100;
 }
 
 .search {
-  position: fixed;
-  left: 0px;
-  right: 0px;
-  top: 0px;
-  bottom: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-  width: 500px;
-  height: 35px;
-  background: #444;
-  background: rgba(0,0,0,.2);
-  border-radius:  3px;
-  border: 1px solid #fff;
+    padding-top: 20%;
+    width: 100%;
 }
 
-.search input {
-  width: 370px;
-  padding: 10px 5px;
+.searchTerm {
   float: left;
-  color: #ccc;
-  border: 0;
-  background: transparent;
-  border-radius: 3px 0 0 3px;
+  width: 100%;
+  border: 3px solid #e5c100;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #9DBFAF;
 }
 
-.search input:focus {
-  outline: 0;
-  background:transparent;
+.searchTerm:focus{
+  color: black;
 }
 
-.search button {
-  position: relative;
-  float: right;
-  border: 0;
-  padding: 0;
+.searchButton {
+  position: absolute;
+  display: inline-block;
+  right: -50px;
+  height: 36px;
+  border: 1px solid #e5c100;
+  background: #e5c100;
+  text-align: center;
+  color: black;
+  border-radius: 5px;
   cursor: pointer;
-  height: 35px;
-  width: 120px;
-  color: #fff;
-  background: transparent;
-  border-left: 1px solid #fff;
-  border-radius: 0 3px 3px 0;
-}   
-
-.search button:hover {
-  background: #fff;
-  color:#444;
+  font-size: 20px;
 }
 
-.search button:active {
-  box-shadow: 0px 0px 12px 0px rgba(225, 225, 225, 1);
-}
-
-.search button:focus {
-  outline: 0;
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 25%;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

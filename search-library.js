@@ -18,6 +18,7 @@ var bodyParser = require('body-parser');
 var library = express();
 
 // view engine setup
+library.use(express.static(__dirname + '/public'));
 library.set('views', path.join(__dirname, 'views'));
 library.set('view engine', 'ejs');
 
@@ -34,8 +35,36 @@ library.get('/', function(req, res){
   res.render('index', {message:"fuck you ethan"})
 });
 
+library.post('/search-catalog', function(req, res){
+    console.log(req.body.searchString);
+    var query = "SELECT * FROM library WHERE authors LIKE ? "
+                                  + "OR title LIKE ? "
+                                  + "OR description LIKE ? "
+                                  + "OR categories LIKE ? "
+                                  + "OR publisher LIKE ? "
+                                  + "OR notes LIKE ? "
+                                  + "OR industry_identifiers LIKE ? "
+                                  + "OR published_date LIKE ? "
+                                  + ";";
+    console.log(query);
+    var search = '%'+req.body.searchString+'%';
+    db.all(query, search, search, search, search, search, search, search, search, function(error, data){
+        if (error){
+            console.log(error);
+        }
+        // console.log(data)
+        // for(var i=0; i<data.length; i++)
+        //     JSON.parse(unescape(data[i].authors)).forEach(function(author){
+        //         console.log(author);
+        //     });
+        var ret = {books:data}
+        console.log(ret);
+        res.render('results', ret);
+    });
+});
 
 
 module.exports = library;
 
-library.listen(7000)
+library.listen(8080)
+console.log("Server working");

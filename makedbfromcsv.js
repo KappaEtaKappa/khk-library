@@ -12,23 +12,23 @@ var spin = require('term-spinner');
 var spinner = spin.new("◐◓◑◒");
 function khkOrGoogleOrNull(khk, google, encode){
 	if(encode == undefined) encode = false;
-	
+
 	s = google;
 	if(google == undefined || google == "")
 		s = khk;
 	if(s.length == 0)
-		return "NULL"
+		return null;
 	if(encode)
-		return "'" + escape(encodeURI(s)) + "'";
+		return escape(s);
 	else
-		return "'" + escape(s) + "'";
+		return  s;
 }
 function khkOrGoogleOrNaN(khk, google){
 	i = google;
 	if(google == null)
 		i = khk;
 	if(isNaN(i))
-		return "NULL";
+		return null;
 	return i;
 }
 
@@ -64,20 +64,20 @@ db.serialize(function() {
 
 	fs.readFile("library_db.csv", "utf8", function(err, data){
 		if(err){ console.log(err); process.exit(1);}
-		
+
 		csv_parse(data, function(err, data){
 			if(err){ console.log(err); process.exit(1);}
 
-			var spinnerInv = setInterval(function () {
-				spinner.next();
-				process.stdout.clearLine();
-				process.stdout.cursorTo(0);
-				process.stdout.write([spinner.current, "("+doneCount+"/"+188+")"+" Processing..."].join(" "));
-			}, 100);
+			// var spinnerInv = setInterval(function () {
+			// 	spinner.next();
+			// 	process.stdout.clearLine();
+			// 	process.stdout.cursorTo(0);
+			// 	process.stdout.write([spinner.current, "("+doneCount+"/"+188+")"+" Processing..."].join(" "));
+			// }, 100);
 			var doneCount = 1;
-			db.serialize(function(){	
+			db.serialize(function(){
 
-				data.forEach(function(val, index, arr){	
+				data.forEach(function(val, index, arr){
 					var go4it = function(val, index, arr){
 						running++;
 						var bookIsbn = val[3];
@@ -87,7 +87,7 @@ db.serialize(function() {
 						isbn.resolve(bookIsbn,function(err, book){
 							if(err){ console.log(err); book={imageLinks:{}}; }
 							else console.log('\n#'+val[0]+' "'+book.title+'" shelved.')
-							
+
 							if(book.imageLinks == undefined)
 								book.imageLinks = {};
 
@@ -115,30 +115,8 @@ db.serialize(function() {
 												"language,"+
 												"preview_link,"+
 												"info_link,"+
-												"canonical_volume_link"+										
-											  ") VALUES (" +
-												khkOrGoogleOrNaN(parseInt(val[0]),null) + "," +
-												khkOrGoogleOrNull(val[1],undefined) + "," +
-												khkOrGoogleOrNull(val[2],undefined) + "," +
-												khkOrGoogleOrNull(val[3],undefined) + "," +
-												khkOrGoogleOrNull(val[4],book.title) + "," +
-												khkOrGoogleOrNull(val[5],escape(JSON.stringify(book.authors))) + "," +
-												khkOrGoogleOrNull(val[6],undefined) + "," +
-												khkOrGoogleOrNull("",book.publisher) + "," +
-												khkOrGoogleOrNull("",book.publishedDate) + "," +
-												khkOrGoogleOrNull("",book.description) + "," +
-												khkOrGoogleOrNull("",JSON.stringify(book.industryIdentifiers)) + "," +
-												khkOrGoogleOrNaN(null,book.pageCount) + "," +
-												khkOrGoogleOrNull("",escape(JSON.stringify(book.categories))) + "," +
-												khkOrGoogleOrNaN(null,book.averageRating) + "," +
-												khkOrGoogleOrNaN(null,book.ratingCount) + "," +
-												khkOrGoogleOrNull("",book.contentVersion) + "," +
-												khkOrGoogleOrNull("",book.imageLinks.thumbnail, true)  + "," +
-												khkOrGoogleOrNull("",book.imageLinks.smallThumbnail, true)  + "," +
-												khkOrGoogleOrNull("",book.language)  + "," +
-												khkOrGoogleOrNull("",book.previewLink, true)  + "," +
-												khkOrGoogleOrNull("",book.infoLink, true)  + "," +
-												khkOrGoogleOrNull("",book.canonicalVolumeLink, true) + ");";
+												"canonical_volume_link"+
+											  ") VALUES ( ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,? );"
 											}catch(e){
 												console.log("Error on item " + i);
 												console.log("Data: ", val)
@@ -146,17 +124,40 @@ db.serialize(function() {
 												console.log("Error ", e);
 												process.exit(1);
 											}
-							db.run(insert, function(err){
+							db.run(insert,
+											khkOrGoogleOrNaN(parseInt(val[0]),null),
+											khkOrGoogleOrNull(val[1],undefined),
+											khkOrGoogleOrNull(val[2],undefined),
+											khkOrGoogleOrNull(val[3],undefined),
+											khkOrGoogleOrNull(val[4],book.title),
+											khkOrGoogleOrNull(val[5],JSON.stringify(book.authors), false),
+											khkOrGoogleOrNull(val[6],undefined),
+											khkOrGoogleOrNull("",book.publisher),
+											khkOrGoogleOrNull("",book.publishedDate),
+											khkOrGoogleOrNull("",book.description),
+											khkOrGoogleOrNull("",JSON.stringify(book.industryIdentifiers)),
+											khkOrGoogleOrNaN(null,book.pageCount),
+											khkOrGoogleOrNull("",escape(JSON.stringify(book.categories))),
+											khkOrGoogleOrNaN(null,book.averageRating),
+											khkOrGoogleOrNaN(null,book.ratingCount),
+											khkOrGoogleOrNull("",book.contentVersion),
+											khkOrGoogleOrNull("",book.imageLinks.thumbnail, true),
+											khkOrGoogleOrNull("",book.imageLinks.smallThumbnail, true),
+											khkOrGoogleOrNull("",book.language),
+											khkOrGoogleOrNull("",book.previewLink, true),
+											khkOrGoogleOrNull("",book.infoLink, true),
+											khkOrGoogleOrNull("",book.canonicalVolumeLink, true),
+								 function(err){
 								if(err){ console.log(insert, err); process.exit(1);}
 								running--;
 								doneCount++;
 								if(doneCount == data.length){
-									clearInterval(spinnerInv);
+									// clearInterval(spinnerInv);
 									console.log("Done!");
 									console.log(doneCount + " books shelved.");
 									process.exit(0);
 								}
-							});	
+							});
 						});
 					};
 
@@ -174,5 +175,3 @@ db.serialize(function() {
 		});
 	});
 });
-
-

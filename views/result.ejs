@@ -1,0 +1,37 @@
+<div class="queries clearfix">
+    <div class="imgarea">
+        <img src="<%- unescape(books[i].thumbnail) %>">
+    </div>
+    <div class="info">
+        <h1><%- unescape(books[i].title) %></h1>
+        <div class="extra">
+            <ul class="extra-items">
+                <% if(books[i].authors){ %>
+                    <% JSON.parse(books[i].authors).forEach(function(author){ %>
+                        <span><%- author %></span><span>&middot;</span>
+                    <% }); %>
+                <% } %>
+                <li><%- unescape(books[i].publisher) %></li>
+                <li><%- unescape(books[i].published_date) %></li>
+            </ul>
+        </div>
+        <p><%- unescape(books[i].description) %></p>
+    </div>
+</div>
+<hr>
+
+
+
+
+
+
+<!--
+<div>
+    <img class="bkimg" src="<%- unescape(books[i].thumbnail) %>">
+</div>
+<h1 class="title"><%- unescape(books[i].title) %></h1>
+<p class="descript"><%- unescape(books[i].description) %></p>
+<p class="pub"><%- unescape(books[i].publisher) %></p>
+<p class="pubdate"><%- unescape(books[i].published_date) %></p>
+
+-->

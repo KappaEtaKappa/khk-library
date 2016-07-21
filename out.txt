@@ -1,0 +1,3967 @@
+From Google
+{
+	"title": "Fundamentals of Applied Electromagnetics",
+	"authors": [
+		"Fawwaz Tayssir Ulaby",
+		"Eric Michielssen",
+		"Umberto Ravaioli"
+	],
+	"publisher": "Pearson College Division",
+	"publishedDate": "2010",
+	"description": "KEY BENEFIT: Widely acclaimed both in the U.S. and abroad, this reader-friendly yet authoritative volume bridges the gap between circuits and new electromagnetics material. Ulaby begins coverage with transmission lines, leading readers from familiar concepts into more advanced topics and applications. KEY TOPICS: Introduction: Waves and Phasors; Transmission Lines; Vector Analysis; Electrostatics; Magnetostatics; Maxwell's Equations for Time-Varying Fields; Plane-Wave Propagation; Reflection, Transmission, and Waveguides; Radiation and Antennas; Satellite Communication Systems and Radar Sensors. MARKET: A useful reference for engineers.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0132139316"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780132139311"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 498,
+	"printType": "BOOK",
+	"categories": [
+		"Technology & Engineering"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=oBWWQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=oBWWQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=oBWWQgAACAAJ&dq=isbn:9780132139311&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=oBWWQgAACAAJ&dq=isbn:9780132139311&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Fundamentals_of_Applied_Electromagnetics.html?hl=&id=oBWWQgAACAAJ"
+}
+
+#1008 "Fundamentals of Applied Electromagnetics" shelved.
+From Google
+{
+	"title": "Elementary Modern Physics",
+	"authors": [
+		"Paul A. Tipler"
+	],
+	"publisher": "Macmillan",
+	"publishedDate": "1992-03-15",
+	"description": "New Volume 2C edition of the classic text, now more than ever tailored to meet the needs of the struggling student.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0879015691"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780879015695"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 333,
+	"printType": "BOOK",
+	"categories": [
+		"Science"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=7xM5xVvV-JQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=7xM5xVvV-JQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=7xM5xVvV-JQC&printsec=frontcover&dq=isbn:0879015691&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=7xM5xVvV-JQC&dq=isbn:0879015691&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Elementary_Modern_Physics.html?hl=&id=7xM5xVvV-JQC"
+}
+
+#1014 "Elementary Modern Physics" shelved.
+From Google
+{
+	"title": "Applied Physics",
+	"authors": [
+		"Dale Ewen",
+		"Neill Schurter",
+		"P. Erik Gundersen"
+	],
+	"publisher": "Prentice Hall",
+	"publishedDate": "2009",
+	"description": "Applied Physics, Ninth Edition (formerly Physics for Career Education) provides comprehensive and practical coverage of physics for students needing an applied physics approach or considering a vocational-technical career. It emphasizes physical concepts as applied to industrial-technical fields and uses common applications to improve the physics and mathematics competence of students. The text is divided into five major areas: mechanics, matter and heat, wave motion and sound, electricity and magnetism, and light and modern physics. This new edition includes more than 120 mostly metric problems and some problems of interest to automotive/diesel and construction students and more than 60 new photos! For individuals preparing for technical or industrial careers.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0135157331"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780135157336"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 753,
+	"printType": "BOOK",
+	"categories": [
+		"Science"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=dO0CSgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=dO0CSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=dO0CSgAACAAJ&dq=isbn:9780135157336&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=dO0CSgAACAAJ&dq=isbn:9780135157336&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Applied_Physics.html?hl=&id=dO0CSgAACAAJ"
+}
+
+#1022 "Applied Physics" shelved.
+From Google
+{
+	"title": "Learning XML",
+	"authors": [
+		"Erik T. Ray"
+	],
+	"publisher": "Oreilly & Associates Incorporated",
+	"publishedDate": "2001",
+	"description": "Showcases XML's enhanced styling and linking standards while exploring syntax, structures, and stylesheets.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_13",
+			"identifier": "9780596000462"
+		},
+		{
+			"type": "ISBN_10",
+			"identifier": "0596000464"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 354,
+	"printType": "BOOK",
+	"categories": [
+		"Computers"
+	],
+	"averageRating": 3,
+	"ratingsCount": 2,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.0.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=2dUpswlTTcQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=2dUpswlTTcQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=2dUpswlTTcQC&dq=isbn:0596000464&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=2dUpswlTTcQC&dq=isbn:0596000464&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Learning_XML.html?hl=&id=2dUpswlTTcQC"
+}
+
+#1026 "Learning XML" shelved.
+From Google
+{
+	"title": "Electrical Discipline-specific Review for the FE/EIT Exam",
+	"authors": [
+		"John E. Hajjar",
+		"Abdulrahman Yassine"
+	],
+	"publisher": "Professional Publications Incorporated",
+	"publishedDate": "2006-01",
+	"description": "The best preparation for discipline-specific FE exams 60 practice problems, with full solutions Two complete, simulated 4-hour discipline-specific exam Covers all the topics for that particular discipline Provides the in-depth review you need Topics covered Analog Electronic Circuits Communications Theory Computer & Numerical Methods Computer Hardware Engineering Computer Software Engineering Control Systems Theory & Applications Digital Systems Electromagnetic Theory & Applications Instrumentation Network Analysis Power Systems Signal Processing Solid-State Electronics & Devices _____________________________ Since 1975 more than 2 million people preparing for their engineering, surveying, architecture, LEED®, interior design, and landscape architecture exams have entrusted their exam prep to PPI. For more information, visit us at www.ppi2pass.com.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "1591260663"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9781591260660"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 60,
+	"printType": "BOOK",
+	"categories": [
+		"Study Aids"
+	],
+	"averageRating": 4,
+	"ratingsCount": 1,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=UqfgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=UqfgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=UqfgAAAAMAAJ&dq=isbn:9781591260660&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=UqfgAAAAMAAJ&dq=isbn:9781591260660&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Electrical_Discipline_specific_Review_fo.html?hl=&id=UqfgAAAAMAAJ"
+}
+
+#1028 "Electrical Discipline-specific Review for the FE/EIT Exam" shelved.
+From Google
+{
+	"title": "Engineering Circuit Analysis",
+	"authors": [
+		"William Hart Hayt",
+		"Jack Ellsworth Kemmerly",
+		"Steven M. Durbin"
+	],
+	"publishedDate": "2007",
+	"description": "Design-oriented questions are included at the end of selected chapters to help students with the complexities of the design process and grasp difficult circuit analysis concepts.",
+	"industryIdentifiers": [
+		{
+			"type": "OTHER",
+			"identifier": "STANFORD:36105114403657"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 856,
+	"printType": "BOOK",
+	"categories": [
+		"Circuits électriques - Analyse"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=q-8eAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=q-8eAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=q-8eAQAAIAAJ&dq=isbn:9780072866117&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=q-8eAQAAIAAJ&dq=isbn:9780072866117&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Engineering_Circuit_Analysis.html?hl=&id=q-8eAQAAIAAJ"
+}
+
+#1033 "Engineering Circuit Analysis" shelved.
+From Open Library
+{
+	"title": "KC's problems and solutions for microelectronic circuits",
+	"publishedDate": "1998",
+	"authors": [
+		"Kenneth Carless Smith"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL20968087M/KC's_problems_and_solutions_for_microelectronic_circuits",
+	"infoLink": "https://openlibrary.org/books/OL20968087M/KC's_problems_and_solutions_for_microelectronic_circuits",
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1002 "KC's problems and solutions for microelectronic circuits" shelved.
+From Open Library
+{
+	"title": "Signals and systems",
+	"publishedDate": "1997",
+	"authors": [
+		"Alan V. Oppenheim"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 957,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL14753755M/Signals_and_systems",
+	"infoLink": "https://openlibrary.org/books/OL14753755M/Signals_and_systems",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1011 "Signals and systems" shelved.
+From Open Library
+{
+	"title": "Elementary linear algebra",
+	"publishedDate": "2000",
+	"authors": [
+		"Howard Anton"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 588,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/301554-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/301554-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/elementarylineara00anto",
+	"infoLink": "https://openlibrary.org/books/OL46296M/Elementary_linear_algebra",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1005 "Elementary linear algebra" shelved.
+From Open Library
+{
+	"title": "Linear algebra",
+	"publishedDate": "2009",
+	"authors": [
+		"Kimberly S. Kirkpatrick"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 425,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL24865941M/Linear_algebra",
+	"infoLink": "https://openlibrary.org/books/OL24865941M/Linear_algebra",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1006 "Linear algebra" shelved.
+From Open Library
+{
+	"title": "Fundamentals of Engineering",
+	"publishedDate": "June 30, 2005",
+	"authors": [
+		"NCEES"
+	],
+	"description": "General Engineering Sample Questions and Solutions",
+	"industryIdentifiers": [],
+	"pageCount": 111,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL12333859M/Fundamentals_of_Engineering",
+	"infoLink": "https://openlibrary.org/books/OL12333859M/Fundamentals_of_Engineering",
+	"publisher": "NCEES",
+	"language": "unknown"
+}
+
+#1024 "Fundamentals of Engineering" shelved.
+From Open Library
+{
+	"title": "Fundamentals of physics",
+	"publishedDate": "2005",
+	"authors": [
+		"David Halliday"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/302309-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/302309-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3382413M/Fundamentals_of_physics",
+	"infoLink": "https://openlibrary.org/books/OL3382413M/Fundamentals_of_physics",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1023 "Fundamentals of physics" shelved.
+From Open Library
+{
+	"title": "Schaum's outline of theory and problems of electric circuits",
+	"publishedDate": "2003",
+	"authors": [
+		"Mahmood Nahvi"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 469,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/58058-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/58058-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3699824M/Schaum's_outline_of_theory_and_problems_of_electric_circuits",
+	"infoLink": "https://openlibrary.org/books/OL3699824M/Schaum's_outline_of_theory_and_problems_of_electric_circuits",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1009 "Schaum's outline of theory and problems of electric circuits" shelved.
+From Open Library
+{
+	"title": "Probability and Random Processes for Electrical and Computer Engineers",
+	"publishedDate": "June 5, 2006",
+	"authors": [
+		"John A. Gubner"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 640,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/360022-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/360022-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/probabilityrando00gubn_676",
+	"infoLink": "https://openlibrary.org/books/OL7767300M/Probability_and_Random_Processes_for_Electrical_and_Computer_Engineers",
+	"publisher": "Cambridge University Press",
+	"language": "en"
+}
+
+#1012 "Probability and Random Processes for Electrical and Computer Engineers" shelved.
+From Open Library
+{
+	"title": "Physics for Scientists & Engineers",
+	"publishedDate": "October 1995",
+	"authors": [
+		"John R. Gordon",
+		"Ralph McGrew",
+		"Steven Van Wyk",
+		"Raymond Serway"
+	],
+	"description": "Study guide and Student Solutions Manual - Volume 2",
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/4938605-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/4938605-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7270865M/Physics_for_Scientists_Engineers",
+	"infoLink": "https://openlibrary.org/books/OL7270865M/Physics_for_Scientists_Engineers",
+	"publisher": "Harcourt College Pub",
+	"language": "en"
+}
+
+#1021 "Physics for Scientists & Engineers" shelved.
+From Open Library
+{
+	"title": "The Physics problem solver",
+	"publishedDate": "1990",
+	"authors": [],
+	"industryIdentifiers": [],
+	"pageCount": 1187,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/673593-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/673593-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1604533M/The_Physics_problem_solver",
+	"infoLink": "https://openlibrary.org/books/OL1604533M/The_Physics_problem_solver",
+	"publisher": "The Association",
+	"language": "en"
+}
+
+#1020 "The Physics problem solver" shelved.
+From Open Library
+{
+	"title": "Signals and systems",
+	"publishedDate": "1998",
+	"authors": [
+		"Simon S. Haykin"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 694,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/3792871-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/3792871-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/signalssystems00shay",
+	"infoLink": "https://openlibrary.org/books/OL703058M/Signals_and_systems",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1010 "Signals and systems" shelved.
+From Open Library
+{
+	"title": "Principles of power electronics",
+	"publishedDate": "1991",
+	"authors": [
+		"John G. Kassakian"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 738,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/134083-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/134083-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1884018M/Principles_of_power_electronics",
+	"infoLink": "https://openlibrary.org/books/OL1884018M/Principles_of_power_electronics",
+	"publisher": "Addison-Wesley",
+	"language": "en"
+}
+
+#1016 "Principles of power electronics" shelved.
+From Open Library
+{
+	"title": "The 8080/8085 microprocessor book",
+	"publishedDate": "1980",
+	"authors": [
+		"Intel Marketing Communications."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 603,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/4434906-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/4434906-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL4728941M/The_8080_8085_microprocessor_book",
+	"infoLink": "https://openlibrary.org/books/OL4728941M/The_8080_8085_microprocessor_book",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1040 "The 8080/8085 microprocessor book" shelved.
+From Open Library
+{
+	"title": "Digital signal processing",
+	"publishedDate": "1987",
+	"authors": [
+		"Richard A. Roberts"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 578,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1141671-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1141671-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL2548604M/Digital_signal_processing",
+	"infoLink": "https://openlibrary.org/books/OL2548604M/Digital_signal_processing",
+	"publisher": "Addison-Wesley",
+	"language": "en"
+}
+
+#1032 "Digital signal processing" shelved.
+From Open Library
+{
+	"title": "Microcontrollers and microcomputers",
+	"publishedDate": "2009",
+	"authors": [
+		"Fredrick M. Cady"
+	],
+	"description": "principles of software and hardware engineering",
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL22658856M/Microcontrollers_and_microcomputers",
+	"infoLink": "https://openlibrary.org/books/OL22658856M/Microcontrollers_and_microcomputers",
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1034 "Microcontrollers and microcomputers" shelved.
+From Open Library
+{
+	"title": "Physics for Science & Engineering (Learning Guide)",
+	"publishedDate": "June 1993",
+	"authors": [
+		"Princeton University Department of Physi",
+		"Paul M. Fishbane"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 224,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL10092224M/Physics_for_Science_Engineering_(Learning_Guide)",
+	"infoLink": "https://openlibrary.org/books/OL10092224M/Physics_for_Science_Engineering_(Learning_Guide)",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1015 "Physics for Science & Engineering (Learning Guide)" shelved.
+From Open Library
+{
+	"title": "Solid State Electronic Devices (5th Edition)",
+	"publishedDate": "November 8, 1999",
+	"authors": [
+		"Ben Streetman",
+		"Sanjay Banerjee"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 558,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/81907-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/81907-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7330672M/Solid_State_Electronic_Devices_(5th_Edition)",
+	"infoLink": "https://openlibrary.org/books/OL7330672M/Solid_State_Electronic_Devices_(5th_Edition)",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1019 "Solid State Electronic Devices (5th Edition)" shelved.
+From Open Library
+{
+	"title": "The Electric circuits problem solver",
+	"publishedDate": "2004",
+	"authors": [],
+	"description": "a complete solution guide to any textbook",
+	"industryIdentifiers": [],
+	"pageCount": 1163,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL20965318M/The_Electric_circuits_problem_solver",
+	"infoLink": "https://openlibrary.org/books/OL20965318M/The_Electric_circuits_problem_solver",
+	"publisher": "Research and Education Association",
+	"language": "en"
+}
+
+#1030 "The Electric circuits problem solver" shelved.
+From Open Library
+{
+	"title": "Logic and Computer Design Fundamentals (4th Edition)",
+	"publishedDate": "June 7, 2007",
+	"authors": [
+		"M. Morris Mano",
+		"Charles Kime"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 678,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1111151-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1111151-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7338975M/Logic_and_Computer_Design_Fundamentals_(4th_Edition)",
+	"infoLink": "https://openlibrary.org/books/OL7338975M/Logic_and_Computer_Design_Fundamentals_(4th_Edition)",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1037 "Logic and Computer Design Fundamentals (4th Edition)" shelved.
+From Open Library
+{
+	"title": "Schaum's 3000 solved problems in electric circuits",
+	"publishedDate": "1988",
+	"authors": [
+		"S. A. Nasar"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 746,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL2396231M/Schaum's_3000_solved_problems_in_electric_circuits",
+	"infoLink": "https://openlibrary.org/books/OL2396231M/Schaum's_3000_solved_problems_in_electric_circuits",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1018 "Schaum's 3000 solved problems in electric circuits" shelved.
+From Open Library
+{
+	"title": "Spice",
+	"publishedDate": "1997",
+	"authors": [
+		"Gordon W. Roberts"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 447,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1125665-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1125665-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/spice00robe",
+	"infoLink": "https://openlibrary.org/books/OL995146M/Spice",
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1039 "Spice" shelved.
+From Open Library
+{
+	"title": "Field and wave electromagnetics",
+	"publishedDate": "1992",
+	"authors": [
+		"David K. Cheng"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 703,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL18171585M/Field_and_wave_electromagnetics",
+	"infoLink": "https://openlibrary.org/books/OL18171585M/Field_and_wave_electromagnetics",
+	"publisher": "Addison-Wesley",
+	"language": "en"
+}
+
+#1036 "Field and wave electromagnetics" shelved.
+From Open Library
+{
+	"title": "Fundamentals of engineering electromagnetics",
+	"publishedDate": "1993",
+	"authors": [
+		"David K. Cheng"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 488,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/135223-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/135223-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/solutionsmanual00chen",
+	"infoLink": "https://openlibrary.org/books/OL1720285M/Fundamentals_of_engineering_electromagnetics",
+	"publisher": "Addison-Wesley Pub. Co.",
+	"language": "en"
+}
+
+#1038 "Fundamentals of engineering electromagnetics" shelved.
+From Open Library
+{
+	"title": "Hi-fidelity",
+	"publishedDate": "1979",
+	"authors": [
+		"Kenneth W. Johnson",
+		"Kenneth W. Johnson"
+	],
+	"description": "concepts and components for consumers",
+	"industryIdentifiers": [],
+	"pageCount": 274,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL4750146M/Hi-fidelity",
+	"infoLink": "https://openlibrary.org/books/OL4750146M/Hi-fidelity",
+	"publisher": "Kendall/Hunt Pub. Co.",
+	"language": "en"
+}
+
+#1017 "Hi-fidelity" shelved.
+[Error: no books found with isbn: 449906973]
+[Error: no books found with isbn: 9780070595002]
+From Wildcat
+{
+	"title": "Physics for scientists and engineers",
+	"publishedDate": "2010",
+	"authors": [
+		[
+			"Raymond A. Serway",
+			" John W. Jewett",
+			" JR."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Brooks/Cole",
+	"language": "en"
+}
+
+#1001 "Physics for scientists and engineers" shelved.
+From Wildcat
+{
+	"title": "Embedded systems : introduction to the arm® cortex(TM)-M3.",
+	"publishedDate": "2012",
+	"authors": [
+		[
+			"Jonathan W. Valvano."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "[s.n.]",
+	"language": "en"
+}
+
+#1007 "Embedded systems : introduction to the arm® cortex(TM)-M3." shelved.
+From Wildcat
+{
+	"title": "Microelectronic circuits",
+	"publishedDate": "2004",
+	"authors": [
+		[
+			"Adel S. Sedra",
+			" Kenneth C. Smith"
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1004 "Microelectronic circuits" shelved.
+From Wildcat
+{
+	"title": "Circuits",
+	"publishedDate": "2009",
+	"authors": [
+		[
+			"Fawwaz T. Ulaby",
+			" Michel M. Maharbiz."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "National Technology & Science Press",
+	"language": "en"
+}
+
+#1029 "Circuits" shelved.
+From Wildcat
+{
+	"title": "Engineering electromagnetics and waves",
+	"publishedDate": "2000",
+	"authors": [
+		[
+			"taken from Engineering electromagnetics by Umran S. Inan and Aziz S. Inan",
+			" Electromagnetic waves by Umran S. Inan and Aziz S."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Pearson Custom Publishing",
+	"language": "en"
+}
+
+#1035 "Engineering electromagnetics and waves" shelved.
+From Wildcat
+{
+	"title": "Introduction to electric machines and drives",
+	"publishedDate": "2010",
+	"authors": [
+		[
+			"D.W. Novotny",
+			" T.A. Lipo and T.M. Jahns."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Wisconsin Power Electronics Research Center. University of Wisconsin",
+	"language": "en"
+}
+
+#1031 "Introduction to electric machines and drives" shelved.
+From Wildcat
+{
+	"title": "Engineering electromagnetics",
+	"publishedDate": "1999",
+	"authors": [
+		[
+			"Umran S. Inan",
+			" Aziz S. Inan."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Addison-Wesley",
+	"language": "en"
+}
+
+#1025 "Engineering electromagnetics" shelved.
+From Wildcat
+{
+	"title": "Foundations of analog & digital electronic circuits",
+	"publishedDate": "2006",
+	"authors": [
+		[
+			"Anant Agarwal",
+			" Jeffrey H. Lang."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Elsevier",
+	"language": "en"
+}
+
+#1027 "Foundations of analog & digital electronic circuits" shelved.
+From Open Library
+{
+	"title": "Discrete mathematics for computer science",
+	"publishedDate": "2011",
+	"authors": [
+		"Kenneth P. Bogart"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL24080135M/Discrete_mathematics_for_computer_science",
+	"infoLink": "https://openlibrary.org/books/OL24080135M/Discrete_mathematics_for_computer_science",
+	"publisher": "Pearson/Addison-Wesley",
+	"language": "en"
+}
+
+#1067 "Discrete mathematics for computer science" shelved.
+From Open Library
+{
+	"title": "Modeling, Synthesis, and Rapid Prototyping with the VERILOG (TM) HDL",
+	"publishedDate": "March 8, 1999",
+	"authors": [
+		"Michael D. Ciletti"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 724,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/92911-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/92911-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7345623M/Modeling_Synthesis_and_Rapid_Prototyping_with_the_VERILOG_(TM)_HDL",
+	"infoLink": "https://openlibrary.org/books/OL7345623M/Modeling_Synthesis_and_Rapid_Prototyping_with_the_VERILOG_(TM)_HDL",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1077 "Modeling, Synthesis, and Rapid Prototyping with the VERILOG (TM) HDL" shelved.
+From Open Library
+{
+	"title": "Dynamics study pack",
+	"publishedDate": "2004",
+	"authors": [],
+	"description": "chapter reviews, free body diagram workbook, problems website",
+	"industryIdentifiers": [],
+	"pageCount": 162,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/5404565-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/5404565-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL18209902M/Dynamics_study_pack",
+	"infoLink": "https://openlibrary.org/books/OL18209902M/Dynamics_study_pack",
+	"publisher": "Prentice-Hall",
+	"language": "en"
+}
+
+#1054 "Dynamics study pack" shelved.
+From Open Library
+{
+	"title": "Mathematical statistics and data analysis",
+	"publishedDate": "1995",
+	"authors": [
+		"Rice, John A."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 602,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/363580-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/363580-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/mathematicalstat00rice_773",
+	"infoLink": "https://openlibrary.org/books/OL1418485M/Mathematical_statistics_and_data_analysis",
+	"publisher": "Duxbury Press",
+	"language": "en"
+}
+
+#1097 "Mathematical statistics and data analysis" shelved.
+From Open Library
+{
+	"title": "The book of totally useless information",
+	"publishedDate": "1993",
+	"authors": [
+		"Don Voorhees"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 189,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6489158-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6489158-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/bookoftotallyuse00voor",
+	"infoLink": "https://openlibrary.org/books/OL24202079M/The_book_of_totally_useless_information",
+	"publisher": "MJF Books",
+	"language": "unknown"
+}
+
+#1160 "The book of totally useless information" shelved.
+From Wildcat
+{
+	"title": "Nice guys sleep alone : dating in the difficult eighties",
+	"publishedDate": "1986",
+	"authors": [
+		[
+			"Bruce Feirstein ; illustrated by Shary Flenniken."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Dell Pub. Co.",
+	"language": "en"
+}
+
+#1086 "Nice guys sleep alone : dating in the difficult eighties" shelved.
+From Wildcat
+{
+	"title": "Introduction to Linear Algebra",
+	"publishedDate": "2009",
+	"authors": [
+		[
+			"by Gilbert Strang."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Wellesley-cambridge press",
+	"language": "en"
+}
+
+#1092 "Introduction to Linear Algebra" shelved.
+[Error: no books found with isbn: 9781121978317]
+From Wildcat
+{
+	"title": "Signals and systems",
+	"publishedDate": "2004",
+	"authors": [
+		[
+			"Simon Haykin",
+			" Barry Van Veen."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "John Wiley & Sons(Asia) pte. Ltd.",
+	"language": "en"
+}
+
+#1117 "Signals and systems" shelved.
+From Google
+{
+	"title": "\"Surely You're Joking, Mr. Feynman!\"",
+	"subtitle": "Adventures of a Curious Character",
+	"authors": [
+		"Richard Phillips Feynman",
+		"Ralph Leighton"
+	],
+	"publisher": "Bantam Dell Publishing Group",
+	"publishedDate": "1985",
+	"description": "Anecdotal, unpretentious, and lively, Feynman's book is filled with stories about his outrageous adventures--from trading ideas with Albert Einstein to discussing betting odds with Nick the Greek. A New York Times bestseller for 15 weeks.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0553346687"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780553346688"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 322,
+	"printType": "BOOK",
+	"categories": [
+		"Biography & Autobiography"
+	],
+	"averageRating": 4.5,
+	"ratingsCount": 15,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=yEuhMgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=yEuhMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=yEuhMgEACAAJ&dq=isbn:0553346687&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=yEuhMgEACAAJ&dq=isbn:0553346687&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Surely_You_re_Joking_Mr_Feynman.html?hl=&id=yEuhMgEACAAJ"
+}
+
+#1143 ""Surely You're Joking, Mr. Feynman!"" shelved.
+From Open Library
+{
+	"title": "Statistical control by monitoring and feedback adjustment",
+	"publishedDate": "1997",
+	"authors": [
+		"George E. P. Box"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 327,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/301811-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/301811-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL655425M/Statistical_control_by_monitoring_and_feedback_adjustment",
+	"infoLink": "https://openlibrary.org/books/OL655425M/Statistical_control_by_monitoring_and_feedback_adjustment",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1080 "Statistical control by monitoring and feedback adjustment" shelved.
+From Open Library
+{
+	"title": "Introduction to Philosophy",
+	"publishedDate": "September 21, 2006",
+	"authors": [],
+	"description": "Classical and Contemporary Readings",
+	"industryIdentifiers": [],
+	"pageCount": 819,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/126512-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/126512-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7390906M/Introduction_to_Philosophy",
+	"infoLink": "https://openlibrary.org/books/OL7390906M/Introduction_to_Philosophy",
+	"publisher": "Oxford University Press, USA",
+	"language": "en"
+}
+
+#1109 "Introduction to Philosophy" shelved.
+From Open Library
+{
+	"title": "Strangers from a different shore",
+	"publishedDate": "1998",
+	"authors": [
+		"Ronald Takaki"
+	],
+	"description": "a history of Asian Americans",
+	"industryIdentifiers": [],
+	"pageCount": 591,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/190491-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/190491-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL488238M/Strangers_from_a_different_shore",
+	"infoLink": "https://openlibrary.org/books/OL488238M/Strangers_from_a_different_shore",
+	"publisher": "Little, Brown",
+	"language": "en"
+}
+
+#1153 "Strangers from a different shore" shelved.
+From Open Library
+{
+	"title": "Pride and Prejudice (Oxford World's Classics)",
+	"publishedDate": "June 25, 1998",
+	"authors": [
+		"Jane Austen",
+		"Frank W. Bradbrook"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 410,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/119112-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/119112-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7384010M/Pride_and_Prejudice_(Oxford_World's_Classics)",
+	"infoLink": "https://openlibrary.org/books/OL7384010M/Pride_and_Prejudice_(Oxford_World's_Classics)",
+	"publisher": "Oxford University Press, USA",
+	"language": "en"
+}
+
+#1142 "Pride and Prejudice (Oxford World's Classics)" shelved.
+From Open Library
+{
+	"title": "The Aeneid / Virgil ; translated by Robert Fitzgerald.",
+	"publishedDate": "1990",
+	"authors": [
+		"Publius Vergilius Maro"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 442,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL20640025M/The_Aeneid_Virgil_translated_by_Robert_Fitzgerald.",
+	"infoLink": "https://openlibrary.org/books/OL20640025M/The_Aeneid_Virgil_translated_by_Robert_Fitzgerald.",
+	"publisher": "Vintage Books",
+	"language": "en"
+}
+
+#1134 "The Aeneid / Virgil ; translated by Robert Fitzgerald." shelved.
+From Open Library
+{
+	"title": "Calculus (8th Edition)",
+	"publishedDate": "January 1999",
+	"authors": [
+		"Dale Varberg",
+		"Edwin J. Purcell",
+		"Steven E. Rigdon"
+	],
+	"description": "Student Solutions Manual",
+	"industryIdentifiers": [],
+	"pageCount": 440,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/84615-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/84615-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7333475M/Calculus_(8th_Edition)",
+	"infoLink": "https://openlibrary.org/books/OL7333475M/Calculus_(8th_Edition)",
+	"publisher": "Prentice Hall College Div",
+	"language": "en"
+}
+
+#1118 "Calculus (8th Edition)" shelved.
+From Open Library
+{
+	"title": "Listening to Music (with CD)",
+	"publishedDate": "January 25, 2007",
+	"authors": [
+		"Craig Wright"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 480,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1259131-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1259131-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7651556M/Listening_to_Music_(with_CD)",
+	"infoLink": "https://openlibrary.org/books/OL7651556M/Listening_to_Music_(with_CD)",
+	"publisher": "Schirmer",
+	"language": "en"
+}
+
+#1120 "Listening to Music (with CD)" shelved.
+From Open Library
+{
+	"title": "Calculus with applications.",
+	"publishedDate": "2007",
+	"authors": [
+		"Margaret L. Lial"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL17885721M/Calculus_with_applications.",
+	"infoLink": "https://openlibrary.org/books/OL17885721M/Calculus_with_applications.",
+	"publisher": "Pearson",
+	"language": "en"
+}
+
+#1104 "Calculus with applications." shelved.
+From Open Library
+{
+	"title": "The Bear and the Dragon (Jack Ryan Novels)",
+	"publishedDate": "August 1, 2001",
+	"authors": [
+		"Tom Clancy"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 1152,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/271976-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/271976-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/beardragon00tomc",
+	"infoLink": "https://openlibrary.org/books/OL7504628M/The_Bear_and_the_Dragon_(Jack_Ryan_Novels)",
+	"publisher": "Berkley",
+	"language": "en"
+}
+
+#1138 "The Bear and the Dragon (Jack Ryan Novels)" shelved.
+From Open Library
+{
+	"title": "Narrative of the life of Frederick Douglass",
+	"publishedDate": "1995",
+	"authors": [
+		"Frederick Douglass"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 76,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/311715-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/311715-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/narrativeoflife000doug",
+	"infoLink": "https://openlibrary.org/books/OL1115929M/Narrative_of_the_life_of_Frederick_Douglass",
+	"publisher": "Dover Publications",
+	"language": "en"
+}
+
+#1127 "Narrative of the life of Frederick Douglass" shelved.
+From Open Library
+{
+	"title": "Environmental law",
+	"publishedDate": "2005",
+	"authors": [
+		"Jeffrey M. Gaba"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 314,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL21112410M/Environmental_law",
+	"infoLink": "https://openlibrary.org/books/OL21112410M/Environmental_law",
+	"publisher": "Thomson/West",
+	"language": "en"
+}
+
+#1060 "Environmental law" shelved.
+From Open Library
+{
+	"title": "GRE",
+	"publishedDate": "1994",
+	"authors": [],
+	"description": "practicing to take the general test : the only guide containing actual GRE general tests.",
+	"industryIdentifiers": [],
+	"pageCount": 499,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6506294-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6506294-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/grepracticingtot00grad",
+	"infoLink": "https://openlibrary.org/books/OL21503719M/GRE",
+	"publisher": "Published by Educational Testing Service for the Graduate Record Examinations Board",
+	"language": "en"
+}
+
+#1167 "GRE" shelved.
+From Open Library
+{
+	"title": "Chemistry the easy way",
+	"publishedDate": "1996",
+	"authors": [
+		"Joseph A. Mascetta"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 448,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/602201-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/602201-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/chemistryeasyway00masc_2",
+	"infoLink": "https://openlibrary.org/books/OL788518M/Chemistry_the_easy_way",
+	"publisher": "Barron's Educational Series",
+	"language": "en"
+}
+
+#1044 "Chemistry the easy way" shelved.
+From Open Library
+{
+	"title": "Microsoft Office Access 2007",
+	"publishedDate": "January 26, 2007",
+	"authors": [
+		"Virginia Andersen"
+	],
+	"description": "The Complete Reference (Complete Reference Series)",
+	"industryIdentifiers": [],
+	"pageCount": 775,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1082567-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1082567-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7302699M/Microsoft_Office_Access_2007",
+	"infoLink": "https://openlibrary.org/books/OL7302699M/Microsoft_Office_Access_2007",
+	"publisher": "McGraw-Hill Osborne Media",
+	"language": "en"
+}
+
+#1076 "Microsoft Office Access 2007" shelved.
+From Open Library
+{
+	"title": "Algebra",
+	"publishedDate": "1980",
+	"authors": [],
+	"description": "Structure and Method (Book 1)",
+	"industryIdentifiers": [],
+	"pageCount": 552,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6598619-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6598619-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/algebrastructure00dolc",
+	"infoLink": "https://openlibrary.org/books/OL10161984M/Algebra",
+	"publisher": "Houghton Mifflin Company",
+	"language": "en"
+}
+
+#1098 "Algebra" shelved.
+From Google
+{
+	"title": "Selected Poems",
+	"authors": [
+		"Walt Whitman"
+	],
+	"publisher": "Courier Corporation",
+	"publishedDate": "1991",
+	"description": "Presents twenty-four poems from \"Leaves of Grass,\" including \"I Hear America Singing,\" \"I Sing the Body Electric,\" and \"O Captain! My Captain!\"",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0486268780"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780486268781"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": true
+	},
+	"pageCount": 119,
+	"printType": "BOOK",
+	"categories": [
+		"Poetry"
+	],
+	"averageRating": 3.5,
+	"ratingsCount": 3,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "2.1.1.0.preview.1",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=6lki1jN4glsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=6lki1jN4glsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=6lki1jN4glsC&printsec=frontcover&dq=isbn:0486268780&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=6lki1jN4glsC&dq=isbn:0486268780&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Selected_Poems.html?hl=&id=6lki1jN4glsC"
+}
+
+#1085 "Selected Poems" shelved.
+From Google
+{
+	"title": "Psychological Abstracts",
+	"authors": [
+		"Walter Samuel Hunter"
+	],
+	"publishedDate": "2004",
+	"industryIdentifiers": [
+		{
+			"type": "OTHER",
+			"identifier": "STANFORD:36105114637577"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"printType": "BOOK",
+	"categories": [
+		"Psychology"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.15.2.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=ufcnAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=ufcnAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=ufcnAQAAIAAJ&dq=isbn:1557987912&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=ufcnAQAAIAAJ&dq=isbn:1557987912&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Psychological_Abstracts.html?hl=&id=ufcnAQAAIAAJ"
+}
+
+#1087 "Psychological Abstracts" shelved.
+From Open Library
+{
+	"title": "Native Son (Perennial Classics)",
+	"publishedDate": "August 2, 2005",
+	"authors": [
+		"Wright, Richard"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 504,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/37629-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/37629-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7282773M/Native_Son_(Perennial_Classics)",
+	"infoLink": "https://openlibrary.org/books/OL7282773M/Native_Son_(Perennial_Classics)",
+	"publisher": "Harper Perennial Modern Classics",
+	"language": "en"
+}
+
+#1135 "Native Son (Perennial Classics)" shelved.
+From Open Library
+{
+	"title": "Modern control systems",
+	"publishedDate": "2008",
+	"authors": [
+		"Dorf, Richard C."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 1018,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL23237510M/Modern_control_systems",
+	"infoLink": "https://openlibrary.org/books/OL23237510M/Modern_control_systems",
+	"publisher": "Pearson/Prentice Hall",
+	"language": "en"
+}
+
+#1053 "Modern control systems" shelved.
+From Open Library
+{
+	"title": "Introduction to programming with Java",
+	"publishedDate": "2008",
+	"authors": [
+		"John Dean"
+	],
+	"description": "a problem solving approach",
+	"industryIdentifiers": [],
+	"pageCount": 816,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL23144615M/Introduction_to_programming_with_Java",
+	"infoLink": "https://openlibrary.org/books/OL23144615M/Introduction_to_programming_with_Java",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1074 "Introduction to programming with Java" shelved.
+From Open Library
+{
+	"title": "Euripides V",
+	"publishedDate": "1959",
+	"authors": [
+		"David Grene",
+		"Richmond Alexander Lattimore"
+	],
+	"description": "three tragedies",
+	"industryIdentifiers": [],
+	"pageCount": 227,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6874408-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6874408-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/euripidesvthreet00gren",
+	"infoLink": "https://openlibrary.org/books/OL24614839M/Euripides_V",
+	"publisher": "University of Chicago Press",
+	"language": "en"
+}
+
+#1147 "Euripides V" shelved.
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+From Wildcat
+{
+	"title": "Networking APIs: Sockets and XTI",
+	"publishedDate": "1998",
+	"authors": [
+		[
+			"by W. Richard Stevens"
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1068 "Networking APIs: Sockets and XTI" shelved.
+From Open Library
+{
+	"title": "Macroeconomics",
+	"publishedDate": "April 28, 2006",
+	"authors": [
+		"N. Gregory Mankiw"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 608,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1354817-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1354817-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7835508M/Macroeconomics",
+	"infoLink": "https://openlibrary.org/books/OL7835508M/Macroeconomics",
+	"publisher": "Worth Publishers",
+	"language": "en"
+}
+
+#1126 "Macroeconomics" shelved.
+From Wildcat
+{
+	"title": "Introduction to Programming With Java.",
+	"publishedDate": "2008",
+	"authors": [
+		[
+			"John S. Dean; Raymond H. Dean."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "McGraw-Hill Education",
+	"language": "en"
+}
+
+#1073 "Introduction to Programming With Java." shelved.
+From Wildcat
+{
+	"title": "C++ for Java programmers",
+	"publishedDate": "2004",
+	"authors": [
+		[
+			"Mark Allen Weiss."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Pearson Education",
+	"language": "en"
+}
+
+#1072 "C++ for Java programmers" shelved.
+From Wildcat
+{
+	"title": "Saturday is for funerals",
+	"publishedDate": "2011",
+	"authors": [
+		[
+			"Unity Dow & Max Essex."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Harvard University Press",
+	"language": "en"
+}
+
+#1128 "Saturday is for funerals" shelved.
+From Google
+{
+	"title": "The Complete Idiot's Guide to Acing the GRE",
+	"authors": [
+		"Henry George Stratakis-Allen"
+	],
+	"publisher": "Penguin",
+	"publishedDate": "2007",
+	"description": "Making the grade for post-graduate studies. The Graduate Record Exam is a must for anyone who aspires to post-graduate study, and it creates more general anxiety than anything since the SAT. This guide is the answer to every test- taker's prayers, providing all the tricks (and a sample exam) necessary for you to score big.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "1592575153"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9781592575152"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": true
+	},
+	"pageCount": 352,
+	"printType": "BOOK",
+	"categories": [
+		"Study Aids"
+	],
+	"averageRating": 3,
+	"ratingsCount": 1,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.0.0.0.preview.1",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=I4rHnE68vrAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=I4rHnE68vrAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=I4rHnE68vrAC&printsec=frontcover&dq=isbn:9781592575152&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=I4rHnE68vrAC&dq=isbn:9781592575152&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/The_Complete_Idiot_s_Guide_to_Acing_the.html?hl=&id=I4rHnE68vrAC"
+}
+
+#1043 "The Complete Idiot's Guide to Acing the GRE" shelved.
+From Google
+{
+	"title": "The Eastern Origins of Western Civilisation",
+	"authors": [
+		"John M. Hobson"
+	],
+	"publisher": "Cambridge University Press",
+	"publishedDate": "2004-06-03",
+	"description": "This book challenges the ethnocentric bias of mainstream accounts of the 'Rise of the West'. John Hobson argues that these accounts assume that Europeans have pioneered their own development, and that the East has been a passive by-stander. In contrast Hobson describes the rise of what he calls the 'Oriental West'. He argues that Europe first assimilated many Eastern inventions, and then appropriated Eastern resources through imperialism. Hobson's book thus propels the hitherto marginalised Eastern peoples to the forefront of the story of progressive world history.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0521547245"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780521547246"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": true
+	},
+	"pageCount": 376,
+	"printType": "BOOK",
+	"categories": [
+		"History"
+	],
+	"averageRating": 3.5,
+	"ratingsCount": 3,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.1.0.preview.1",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=KQN85hrJyT4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=KQN85hrJyT4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=KQN85hrJyT4C&printsec=frontcover&dq=isbn:9780521547246&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=KQN85hrJyT4C&dq=isbn:9780521547246&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/The_Eastern_Origins_of_Western_Civilisat.html?hl=&id=KQN85hrJyT4C"
+}
+
+#1144 "The Eastern Origins of Western Civilisation" shelved.
+From Google
+{
+	"title": "Laboratory Manual for General, Organic & Biochemistry",
+	"authors": [
+		"Frederick Bettelheim",
+		"Joseph Landesberg"
+	],
+	"publisher": "Harcourt School",
+	"publishedDate": "1991-01-01",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0030546745"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780030546747"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 543,
+	"printType": "BOOK",
+	"categories": [
+		"Science"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "0.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=Q-vJubgdNB0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=Q-vJubgdNB0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=Q-vJubgdNB0C&dq=isbn:0030546745&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=Q-vJubgdNB0C&dq=isbn:0030546745&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Laboratory_Manual_for_General_Organic_Bi.html?hl=&id=Q-vJubgdNB0C"
+}
+
+#1045 "Laboratory Manual for General, Organic & Biochemistry" shelved.
+From Google
+{
+	"title": "Ordinary Differential Equations Using MATLAB",
+	"authors": [
+		"John C. Polking",
+		"David Arnold"
+	],
+	"publisher": "Prentice Hall",
+	"publishedDate": "2004",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0131456792"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780131456792"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 247,
+	"printType": "BOOK",
+	"categories": [
+		"Mathematics"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=sXfIQgAACAAJ&dq=isbn:0131456792&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=sXfIQgAACAAJ&dq=isbn:0131456792&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Ordinary_Differential_Equations_Using_MA.html?hl=&id=sXfIQgAACAAJ"
+}
+
+#1101 "Ordinary Differential Equations Using MATLAB" shelved.
+From Google
+{
+	"title": "GRE, Practicing to Take the General Test",
+	"publisher": "Educational Testing Serv",
+	"publishedDate": "2002",
+	"description": "Reviews the structure and content focus of the GRE General Test, provides sample questions, and suggests strategies for taking either the written or computerized GRE.",
+	"industryIdentifiers": [
+		{
+			"type": "OTHER",
+			"identifier": "UCSC:32106015990507"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 411,
+	"printType": "BOOK",
+	"categories": [
+		"Study Aids"
+	],
+	"averageRating": 4,
+	"ratingsCount": 7,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "0.0.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=vPY5AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=vPY5AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=vPY5AQAAIAAJ&dq=isbn:0886852129&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=vPY5AQAAIAAJ&dq=isbn:0886852129&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/GRE_Practicing_to_Take_the_General_Test.html?hl=&id=vPY5AQAAIAAJ"
+}
+
+#1051 "GRE, Practicing to Take the General Test" shelved.
+From Google
+{
+	"title": "Wild Animus",
+	"authors": [
+		"Rich Shapero"
+	],
+	"publisher": "Too Far Pub",
+	"publishedDate": "2004",
+	"description": "Newly graduated from college, Sam Altman is gripped by an inexplicable urge to lose himself in the wilderness and teams up with an enigmatic young woman who seems bent on helping him realize his dreams. 50,000 first printing. $100,000 ad promo.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0971880107"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780971880108"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 315,
+	"printType": "BOOK",
+	"categories": [
+		"Fiction"
+	],
+	"averageRating": 1,
+	"ratingsCount": 6,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=UbN_HIWR-04C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=UbN_HIWR-04C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=UbN_HIWR-04C&dq=isbn:0971880107&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=UbN_HIWR-04C&dq=isbn:0971880107&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Wild_Animus.html?hl=&id=UbN_HIWR-04C"
+}
+
+#1130 "Wild Animus" shelved.
+From Open Library
+{
+	"title": "My last duchess, and other poems",
+	"publishedDate": "1993",
+	"authors": [
+		"Robert Browning"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 114,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/311395-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/311395-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1413008M/My_last_duchess_and_other_poems",
+	"infoLink": "https://openlibrary.org/books/OL1413008M/My_last_duchess_and_other_poems",
+	"publisher": "Dover Publications",
+	"language": "en"
+}
+
+#1139 "My last duchess, and other poems" shelved.
+From Google
+{
+	"title": "Oresteia",
+	"subtitle": "Agamemnon, The Libation Bearers, The Eumenides",
+	"authors": [
+		"Aeschylus"
+	],
+	"publishedDate": "1953",
+	"description": "A brief discussion of the life of Aeschylus and the structure of early tragedy accompanies a translation of the three plays based on H. W. Smyth's Loeb Classical Library text",
+	"industryIdentifiers": [
+		{
+			"type": "OTHER",
+			"identifier": "STANFORD:36105003877029"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 170,
+	"printType": "BOOK",
+	"categories": [
+		"Drama"
+	],
+	"averageRating": 5,
+	"ratingsCount": 1,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "0.1.2.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=vzoGAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=vzoGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=vzoGAQAAIAAJ&dq=isbn:0226307786&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=vzoGAQAAIAAJ&dq=isbn:0226307786&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Oresteia.html?hl=&id=vzoGAQAAIAAJ"
+}
+
+#1146 "Oresteia" shelved.
+From Google
+{
+	"title": "The Hitchhiker's Guide to the Galaxy",
+	"authors": [
+		"Douglas Adams"
+	],
+	"publisher": "Del Rey",
+	"publishedDate": "1997",
+	"description": "Chronicles the off-beat and occasionally extraterrestrial journeys, notions, and acquaintances of galactic traveler Arthur Dent",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_13",
+			"identifier": "9780345418913"
+		},
+		{
+			"type": "ISBN_10",
+			"identifier": "0345418913"
+		}
+	],
+	"readingModes": {
+		"text": true,
+		"image": false
+	},
+	"pageCount": 215,
+	"printType": "BOOK",
+	"categories": [
+		"Fiction"
+	],
+	"averageRating": 4,
+	"ratingsCount": 156,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.2.2.0.preview.2",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=29xYAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=29xYAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=29xYAgAAQBAJ&dq=isbn:0345418913&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=29xYAgAAQBAJ&dq=isbn:0345418913&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/The_Hitchhiker_s_Guide_to_the_Galaxy.html?hl=&id=29xYAgAAQBAJ"
+}
+
+#1162 "The Hitchhiker's Guide to the Galaxy" shelved.
+From Open Library
+{
+	"title": "The man who changed China",
+	"publishedDate": "2004",
+	"authors": [
+		"Robert Lawrence Kuhn"
+	],
+	"description": "the life and legacy of Jiang Zemin",
+	"industryIdentifiers": [],
+	"pageCount": 709,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL17145608M/The_man_who_changed_China",
+	"infoLink": "https://openlibrary.org/books/OL17145608M/The_man_who_changed_China",
+	"publisher": "Crown Publishers",
+	"language": "en"
+}
+
+#1052 "The man who changed China" shelved.
+From Open Library
+{
+	"title": "Caviar, Truffles, and Foie Gras",
+	"publishedDate": "October 1, 2001",
+	"authors": [
+		"Katherine Alford"
+	],
+	"description": "Recipes for Divine Indulgence",
+	"industryIdentifiers": [],
+	"pageCount": 180,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/600384-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/600384-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL8001877M/Caviar_Truffles_and_Foie_Gras",
+	"infoLink": "https://openlibrary.org/books/OL8001877M/Caviar_Truffles_and_Foie_Gras",
+	"publisher": "Chronicle Books",
+	"language": "en"
+}
+
+#1131 "Caviar, Truffles, and Foie Gras" shelved.
+From Open Library
+{
+	"title": "Meteorology today",
+	"publishedDate": "1994",
+	"authors": [
+		"C. Donald Ahrens"
+	],
+	"description": "an introduction to weather, climate, and the environment",
+	"industryIdentifiers": [],
+	"pageCount": 591,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/3944771-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/3944771-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/meteorologytoday00ahre",
+	"infoLink": "https://openlibrary.org/books/OL1430703M/Meteorology_today",
+	"publisher": "West Pub.",
+	"language": "en"
+}
+
+#1123 "Meteorology today" shelved.
+From Open Library
+{
+	"title": "The C Programming Language",
+	"publishedDate": "1988",
+	"authors": [
+		"Brian W. Kernighan"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 272,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/5732572-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/5732572-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/cprogramminglang00bria",
+	"infoLink": "https://openlibrary.org/books/OL2030445M/The_C_Programming_Language",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1062 "The C Programming Language" shelved.
+From Wildcat
+{
+	"title": "Introduction to human anatomy and physiology",
+	"publishedDate": "2007",
+	"authors": [
+		[
+			"Eldra Pearl Solomon."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Recording for the Blind & Dyslexic",
+	"language": "en"
+}
+
+#1125 "Introduction to human anatomy and physiology" shelved.
+From Open Library
+{
+	"title": "Handbook of technical writing",
+	"publishedDate": "2006",
+	"authors": [
+		"Gerald J. Alred"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 636,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL17169181M/Handbook_of_technical_writing",
+	"infoLink": "https://openlibrary.org/books/OL17169181M/Handbook_of_technical_writing",
+	"publisher": "Bedford/St. Martins",
+	"language": "en"
+}
+
+#1084 "Handbook of technical writing" shelved.
+From Wildcat
+{
+	"title": "The C programming language",
+	"publishedDate": "1997",
+	"authors": [
+		[
+			"Brian W. Kernighan",
+			" Dennis M. Ritchie."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Prentice Hall of India",
+	"language": "en"
+}
+
+#1064 "The C programming language" shelved.
+[Error: no books found with isbn: ]
+From Open Library
+{
+	"title": "Engineer-in-training license review",
+	"publishedDate": "1998",
+	"authors": [],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1930548-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1930548-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3962349M/Engineer-in-training_license_review",
+	"infoLink": "https://openlibrary.org/books/OL3962349M/Engineer-in-training_license_review",
+	"publisher": "Engineering Press",
+	"language": "en"
+}
+
+#1112 "Engineer-in-training license review" shelved.
+From Open Library
+{
+	"title": "American cinema/American culture",
+	"publishedDate": "2009",
+	"authors": [
+		"Belton, John.",
+		"John Belton"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL22666097M/American_cinema_American_culture",
+	"infoLink": "https://openlibrary.org/books/OL22666097M/American_cinema_American_culture",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1158 "American cinema/American culture" shelved.
+From Open Library
+{
+	"title": "Elementary Differential Equations with Boundary Value Problems (4th Edition)",
+	"publishedDate": "September 29, 1999",
+	"authors": [
+		"C. H. Edwards",
+		"David E. Penney"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 697,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/80907-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/80907-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7329831M/Elementary_Differential_Equations_with_Boundary_Value_Problems_(4th_Edition)",
+	"infoLink": "https://openlibrary.org/books/OL7329831M/Elementary_Differential_Equations_with_Boundary_Value_Problems_(4th_Edition)",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1106 "Elementary Differential Equations with Boundary Value Problems (4th Edition)" shelved.
+From Open Library
+{
+	"title": "Junkbots, bugbots, and bots on wheels",
+	"publishedDate": "2002",
+	"authors": [
+		"Dave Hrynkiw"
+	],
+	"description": "building simple robots with BEAM technology",
+	"industryIdentifiers": [],
+	"pageCount": 374,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/61876-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/61876-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3700602M/Junkbots_bugbots_and_bots_on_wheels",
+	"infoLink": "https://openlibrary.org/books/OL3700602M/Junkbots_bugbots_and_bots_on_wheels",
+	"publisher": "McGraw-Hill/Osborne",
+	"language": "en"
+}
+
+#1055 "Junkbots, bugbots, and bots on wheels" shelved.
+From Open Library
+{
+	"title": "Learning Perl",
+	"publishedDate": "1997",
+	"authors": [
+		"Randal L. Schwartz"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 269,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/805700-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/805700-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/learningperl00schw_323",
+	"infoLink": "https://openlibrary.org/books/OL301115M/Learning_Perl",
+	"publisher": "O'Reilly & Associates",
+	"language": "en"
+}
+
+#1075 "Learning Perl" shelved.
+From Open Library
+{
+	"title": "Essentials of environmental health",
+	"publishedDate": "2007",
+	"authors": [
+		"Robert H. Friis"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1436539-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1436539-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3420132M/Essentials_of_environmental_health",
+	"infoLink": "https://openlibrary.org/books/OL3420132M/Essentials_of_environmental_health",
+	"publisher": "Jones and  Bartlett",
+	"language": "en"
+}
+
+#1059 "Essentials of environmental health" shelved.
+From Open Library
+{
+	"title": "Mathematical handbook of formulas and tables.",
+	"publishedDate": "1999",
+	"authors": [
+		"John Liu"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 278,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/54611-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/54611-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL372091M/Mathematical_handbook_of_formulas_and_tables.",
+	"infoLink": "https://openlibrary.org/books/OL372091M/Mathematical_handbook_of_formulas_and_tables.",
+	"publisher": "McGraw-Hill",
+	"language": "en"
+}
+
+#1103 "Mathematical handbook of formulas and tables." shelved.
+From Open Library
+{
+	"title": "Practical C++ programming",
+	"publishedDate": "1997",
+	"authors": [
+		"Steve Oualline"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 557,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL15463280M/Practical_C_programming",
+	"infoLink": "https://openlibrary.org/books/OL15463280M/Practical_C_programming",
+	"publisher": "O'Reilly & Associates",
+	"language": "en"
+}
+
+#1079 "Practical C++ programming" shelved.
+From Open Library
+{
+	"title": "Clinical Psychology Concepts, Methods, & Profession",
+	"publishedDate": "December 15, 2000",
+	"authors": [
+		"Timothy J. Trull",
+		"E. Jerry Phares",
+		"G.R. Seward",
+		"Dennis Coon",
+		"Hoff-Ginsber",
+		"Olmsted",
+		"Jacobsen",
+		"Adrian Tomer"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 633,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1274366-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1274366-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7785475M/Clinical_Psychology_Concepts_Methods_Profession",
+	"infoLink": "https://openlibrary.org/books/OL7785475M/Clinical_Psychology_Concepts_Methods_Profession",
+	"publisher": "Wadsworth Publishing Company",
+	"language": "en"
+}
+
+#1089 "Clinical Psychology Concepts, Methods, & Profession" shelved.
+From Open Library
+{
+	"title": "Psychology",
+	"publishedDate": "2000",
+	"authors": [
+		"James S. Nairne"
+	],
+	"description": "the adaptive mind",
+	"industryIdentifiers": [],
+	"pageCount": 750,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/4665445-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/4665445-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/psychologyadapti00nair",
+	"infoLink": "https://openlibrary.org/books/OL33526M/Psychology",
+	"publisher": "Wadsworth/Thomson Learning",
+	"language": "en"
+}
+
+#1122 "Psychology" shelved.
+From Open Library
+{
+	"title": "Student Solutions Manual for Kotz/Treichel/Weaver's Chemistry and Chemical Reactivity, 6th",
+	"publishedDate": "February 25, 2005",
+	"authors": [
+		"John C. Kotz",
+		"Paul M. Treichel",
+		"Gabriela C. Weaver"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 416,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/4665579-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/4665579-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7786940M/Student_Solutions_Manual_for_Kotz_Treichel_Weaver's_Chemistry_and_Chemical_Reactivity_6th",
+	"infoLink": "https://openlibrary.org/books/OL7786940M/Student_Solutions_Manual_for_Kotz_Treichel_Weaver's_Chemistry_and_Chemical_Reactivity_6th",
+	"publisher": "Brooks Cole",
+	"language": "en"
+}
+
+#1048 "Student Solutions Manual for Kotz/Treichel/Weaver's Chemistry and Chemical Reactivity, 6th" shelved.
+From Open Library
+{
+	"title": "Concise Handbook of Technical Writing",
+	"publishedDate": "February 1996",
+	"authors": [
+		"Brusaw"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL10386218M/Concise_Handbook_of_Technical_Writing",
+	"infoLink": "https://openlibrary.org/books/OL10386218M/Concise_Handbook_of_Technical_Writing",
+	"publisher": "St Martins Pr",
+	"language": "unknown"
+}
+
+#1083 "Concise Handbook of Technical Writing" shelved.
+From Open Library
+{
+	"title": "Writing that works",
+	"publishedDate": "1988",
+	"authors": [
+		"Walter E. Oliu"
+	],
+	"description": "how to write effectively on the job",
+	"industryIdentifiers": [],
+	"pageCount": 608,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL2410693M/Writing_that_works",
+	"infoLink": "https://openlibrary.org/books/OL2410693M/Writing_that_works",
+	"publisher": "St. Martin's Press",
+	"language": "en"
+}
+
+#1081 "Writing that works" shelved.
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: 8172454317]
+From Open Library
+{
+	"title": "Introduction to Computing Systems",
+	"publishedDate": "October 5, 2000",
+	"authors": [
+		"Yale N. Patt",
+		"Sanjay J. Patel"
+	],
+	"description": "From Bits and Gates to C and Beyond with CD-ROM",
+	"industryIdentifiers": [],
+	"pageCount": 526,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1083608-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1083608-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL7303659M/Introduction_to_Computing_Systems",
+	"infoLink": "https://openlibrary.org/books/OL7303659M/Introduction_to_Computing_Systems",
+	"publisher": "McGraw-Hill Science/Engineering/Math",
+	"language": "en"
+}
+
+#1065 "Introduction to Computing Systems" shelved.
+From Google
+{
+	"title": "Occupied America",
+	"subtitle": "A History of Chicanos",
+	"authors": [
+		"Rodolfo Acuña"
+	],
+	"publisher": "Longman Publishing Group",
+	"publishedDate": "2007",
+	"description": "Occupied America,designed to accommodate the growing number of Mexican-American or Chicano History courses, is the most comprehensive text in this market. The Sixth Edition of Occupied America has been revised to make the text more user-friendly and student-oriented, while maintaining its passionate voice.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0321427386"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780321427380"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 418,
+	"printType": "BOOK",
+	"categories": [
+		"History"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.0.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=pLntAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=pLntAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=pLntAAAAMAAJ&dq=isbn:9780321427380&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=pLntAAAAMAAJ&dq=isbn:9780321427380&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Occupied_America.html?hl=&id=pLntAAAAMAAJ"
+}
+
+#1155 "Occupied America" shelved.
+From Open Library
+{
+	"title": "GMAT review",
+	"publishedDate": "2005",
+	"authors": [],
+	"description": "the official guide",
+	"industryIdentifiers": [],
+	"pageCount": 832,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL23097729M/GMAT_review",
+	"infoLink": "https://openlibrary.org/books/OL23097729M/GMAT_review",
+	"publisher": "Graduate Management Admission Council",
+	"language": "en"
+}
+
+#1168 "GMAT review" shelved.
+From Google
+{
+	"title": "ISBN 0-9690745-2-2",
+	"authors": [
+		"Brad Brace"
+	],
+	"publisher": "brad brace",
+	"publishedDate": "1984",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_13",
+			"identifier": "9780969074526"
+		},
+		{
+			"type": "ISBN_10",
+			"identifier": "0969074522"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": true
+	},
+	"pageCount": 128,
+	"printType": "BOOK",
+	"categories": [
+		"Artists' books"
+	],
+	"averageRating": 5,
+	"ratingsCount": 1,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.1.0.preview.1",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=3l7_p6EuMYoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=3l7_p6EuMYoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=3l7_p6EuMYoC&printsec=frontcover&dq=isbn:&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=3l7_p6EuMYoC&dq=isbn:&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/ISBN_0_9690745_2_2.html?hl=&id=3l7_p6EuMYoC"
+}
+
+#1175 "ISBN 0-9690745-2-2" shelved.
+From Open Library
+{
+	"title": "Student Solutions Manual for Moore/Stanitski/Jurs' Chemistry",
+	"publishedDate": "August 10, 2004",
+	"authors": [
+		"MOORE/STANITSKI/JURS"
+	],
+	"description": "The Molecular Science, 2nd",
+	"industryIdentifiers": [],
+	"pageCount": 448,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1274065-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1274065-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL9444329M/Student_Solutions_Manual_for_Moore_Stanitski_Jurs'_Chemistry",
+	"infoLink": "https://openlibrary.org/books/OL9444329M/Student_Solutions_Manual_for_Moore_Stanitski_Jurs'_Chemistry",
+	"publisher": "Brooks Cole",
+	"language": "en"
+}
+
+#1047 "Student Solutions Manual for Moore/Stanitski/Jurs' Chemistry" shelved.
+From Open Library
+{
+	"title": "Names we call home",
+	"publishedDate": "1996",
+	"authors": [],
+	"description": "autobiography on racial identity",
+	"industryIdentifiers": [],
+	"pageCount": 308,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1221311-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1221311-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1269414M/Names_we_call_home",
+	"infoLink": "https://openlibrary.org/books/OL1269414M/Names_we_call_home",
+	"publisher": "Routledge",
+	"language": "en"
+}
+
+#1161 "Names we call home" shelved.
+From Open Library
+{
+	"title": "Circuits, devices, and systems",
+	"publishedDate": "1992",
+	"authors": [
+		"Ralph Judson Smith"
+	],
+	"description": "a first course in electrical engineering",
+	"industryIdentifiers": [],
+	"pageCount": 868,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/307181-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/307181-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1545158M/Circuits_devices_and_systems",
+	"infoLink": "https://openlibrary.org/books/OL1545158M/Circuits_devices_and_systems",
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1069 "Circuits, devices, and systems" shelved.
+From Open Library
+{
+	"title": "The origins of the civil rights movement",
+	"publishedDate": "1986",
+	"authors": [
+		"Aldon D. Morris"
+	],
+	"description": "Black communities organizing for change",
+	"industryIdentifiers": [],
+	"pageCount": 354,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL21319737M/The_origins_of_the_civil_rights_movement",
+	"infoLink": "https://openlibrary.org/books/OL21319737M/The_origins_of_the_civil_rights_movement",
+	"publisher": "Free Press",
+	"language": "en"
+}
+
+#1154 "The origins of the civil rights movement" shelved.
+From Open Library
+{
+	"title": "Simply Visual Basic 2008",
+	"publishedDate": "2008",
+	"authors": [
+		"Paul J. Deitel"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/5355994-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/5355994-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL16873363M/Simply_Visual_Basic_2008",
+	"infoLink": "https://openlibrary.org/books/OL16873363M/Simply_Visual_Basic_2008",
+	"publisher": "Pearson Education, Inc.",
+	"language": "en"
+}
+
+#1070 "Simply Visual Basic 2008" shelved.
+From Open Library
+{
+	"title": "Wisdom sits in places",
+	"authors": [
+		"Keith H. Basso"
+	],
+	"description": "landscape and language among the Western Apache",
+	"industryIdentifiers": [],
+	"pageCount": 171,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL21579864M/Wisdom_sits_in_places",
+	"infoLink": "https://openlibrary.org/books/OL21579864M/Wisdom_sits_in_places",
+	"publisher": "",
+	"language": "unknown"
+}
+
+#1149 "Wisdom sits in places" shelved.
+From Open Library
+{
+	"title": "Introduction to probability.",
+	"publishedDate": "1997",
+	"authors": [
+		"Charles M. Grinstead"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 510,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/621448-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/621448-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/introductiontopr00grin_874",
+	"infoLink": "https://openlibrary.org/books/OL662633M/Introduction_to_probability.",
+	"publisher": "American Mathematical Society",
+	"language": "en"
+}
+
+#1099 "Introduction to probability." shelved.
+From Open Library
+{
+	"title": "Law, Politics, and Society",
+	"publishedDate": "September 30, 2005",
+	"authors": [
+		"Suzanne Samuels"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 417,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL9507101M/Law_Politics_and_Society",
+	"infoLink": "https://openlibrary.org/books/OL9507101M/Law_Politics_and_Society",
+	"publisher": "Houghton Mifflin Company",
+	"language": "en"
+}
+
+#1088 "Law, Politics, and Society" shelved.
+From Open Library
+{
+	"title": "A doll's house",
+	"publishedDate": "1992",
+	"authors": [
+		"Henrik Ibsen"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 72,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/311062-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/311062-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/dollshouse00ibse",
+	"infoLink": "https://openlibrary.org/books/OL1557188M/A_doll's_house",
+	"publisher": "Dover Publications",
+	"language": "en"
+}
+
+#1140 "A doll's house" shelved.
+From Open Library
+{
+	"title": "Introduction to compiler construction",
+	"publishedDate": "1992",
+	"authors": [
+		"Parsons, Thomas W."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 359,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/456025-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/456025-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1565873M/Introduction_to_compiler_construction",
+	"infoLink": "https://openlibrary.org/books/OL1565873M/Introduction_to_compiler_construction",
+	"publisher": "Computer Science Press",
+	"language": "en"
+}
+
+#1078 "Introduction to compiler construction" shelved.
+From Open Library
+{
+	"title": "Signals & systems",
+	"publishedDate": "1997",
+	"authors": [
+		"Alan V. Oppenheim"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 957,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/92117-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/92117-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/sealesysistemas00oppe_038",
+	"infoLink": "https://openlibrary.org/books/OL982301M/Signals_systems",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1071 "Signals & systems" shelved.
+From Open Library
+{
+	"title": "Upgrading and repairing PCs",
+	"publishedDate": "2006",
+	"authors": [
+		"Mueller, Scott."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 1608,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://archive.org/details/isbn_0789734044",
+	"infoLink": "https://openlibrary.org/books/OL17729175M/Upgrading_and_repairing_PCs",
+	"publisher": "Que",
+	"language": "en"
+}
+
+#1066 "Upgrading and repairing PCs" shelved.
+From Open Library
+{
+	"title": "Bodybuilding, the Weider approach",
+	"publishedDate": "1981",
+	"authors": [
+		"Joe Weider"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 216,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6607023-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6607023-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/bodybuildingweid00weid",
+	"infoLink": "https://openlibrary.org/books/OL3788103M/Bodybuilding_the_Weider_approach",
+	"publisher": "Contemporary Books",
+	"language": "en"
+}
+
+#1163 "Bodybuilding, the Weider approach" shelved.
+From Google
+{
+	"title": "Study Guide for Macroeconomics",
+	"authors": [
+		"Paul Krugman",
+		"Robin Wells",
+		"Elizabeth Kelly"
+	],
+	"publisher": "Worth Publishers",
+	"publishedDate": "2009-05-15",
+	"description": "For each chapter, the Study Guide offers help before and after reading the chapter, as well as before taking an exam on the chapter.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "1429217553"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9781429217552"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 504,
+	"printType": "BOOK",
+	"categories": [
+		"Business & Economics"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=RVkbPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=RVkbPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=RVkbPAAACAAJ&dq=isbn:9781429217552&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=RVkbPAAACAAJ&dq=isbn:9781429217552&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Study_Guide_for_Macroeconomics.html?hl=&id=RVkbPAAACAAJ"
+}
+
+#1108 "Study Guide for Macroeconomics" shelved.
+From Wildcat
+{
+	"title": "Statistics : unlocking the power of data",
+	"publishedDate": "2013",
+	"authors": [
+		[
+			"Robin H. Lock ... [et al.]."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Wiley",
+	"language": "en"
+}
+
+#1042 "Statistics : unlocking the power of data" shelved.
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+From Wildcat
+{
+	"title": "Elementary differential equations",
+	"publishedDate": "2005",
+	"authors": [
+		[
+			"William E. Boyce",
+			" Richard C. DiPrima."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "John Wiley",
+	"language": "en"
+}
+
+#1102 "Elementary differential equations" shelved.
+[Error: no books found with isbn: ]
+From Wildcat
+{
+	"title": "Student's solutions manual. to accompany Thomas' calculus, eleventh edition and Thomas' calculus : early transcendentals, eleventh edition",
+	"publishedDate": "2005",
+	"authors": [
+		[
+			"[William] Ardis ... [et al.]."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Pearson/Addison-Wesley",
+	"language": "en"
+}
+
+#1113 "Student's solutions manual. to accompany Thomas' calculus, eleventh edition and Thomas' calculus : early transcendentals, eleventh edition" shelved.
+From Wildcat
+{
+	"title": "Discrete mathematics for computer scientists",
+	"publishedDate": "2011",
+	"authors": [
+		[
+			"Clifford Stein",
+			" Robert L. Drysdale",
+			" Kenneth Bogart."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Addison-Wesley/Pearson Education",
+	"language": "en"
+}
+
+#1095 "Discrete mathematics for computer scientists" shelved.
+From Wildcat
+{
+	"title": "The Merriam-Webster dictionary = Wei shi ci dian",
+	"publishedDate": "1996",
+	"authors": [
+		[
+			"Meiliyamu Weibosite gong si bian."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Shi jie tu shu chu ban gong si",
+	"language": "en"
+}
+
+#1050 "The Merriam-Webster dictionary = Wei shi ci dian" shelved.
+From Wildcat
+{
+	"title": "Kiso kara no sūgaku ichi purasu ē.",
+	"publishedDate": "2001",
+	"authors": [
+		[
+			"Yanagawa Takaaki."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Sūken Shuppan",
+	"language": "unknown"
+}
+
+#1056 "Kiso kara no sūgaku ichi purasu ē." shelved.
+From Open Library
+{
+	"title": "Circuits Devices & Systems 5e Tm",
+	"publishedDate": "June 4, 1992",
+	"authors": [
+		"R. J. Smith"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL10329819M/Circuits_Devices_Systems_5e_Tm",
+	"infoLink": "https://openlibrary.org/books/OL10329819M/Circuits_Devices_Systems_5e_Tm",
+	"publisher": "John Wiley & Sons Inc",
+	"language": "unknown"
+}
+
+#1041 "Circuits Devices & Systems 5e Tm" shelved.
+From Open Library
+{
+	"title": "Twinkie, Deconstructed",
+	"publishedDate": "March 1, 2007",
+	"authors": [
+		"Steve Ettlinger"
+	],
+	"description": "My Journey to Discover How the Ingredients Found in Processed Foods Are Grown, Mined (Yes, Mined), and Manipulated Into What America Eats",
+	"industryIdentifiers": [],
+	"pageCount": 304,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/872865-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/872865-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL8877993M/Twinkie_Deconstructed",
+	"infoLink": "https://openlibrary.org/books/OL8877993M/Twinkie_Deconstructed",
+	"publisher": "Hudson Street Press",
+	"language": "en"
+}
+
+#1152 "Twinkie, Deconstructed" shelved.
+From Open Library
+{
+	"title": "Psychology",
+	"publishedDate": "2007",
+	"authors": [
+		"Gray, Peter"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://archive.org/details/psychologythedit00gray",
+	"infoLink": "https://openlibrary.org/books/OL23140445M/Psychology",
+	"publisher": "Worth Publishers",
+	"language": "en"
+}
+
+#1121 "Psychology" shelved.
+From Open Library
+{
+	"title": "The complete book of massage",
+	"publishedDate": "1988",
+	"authors": [
+		"Clare Maxwell-Hudson"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 144,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/254527-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/254527-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/completebookofma00maxw_0",
+	"infoLink": "https://openlibrary.org/books/OL2526789M/The_complete_book_of_massage",
+	"publisher": "Random House",
+	"language": "en"
+}
+
+#1164 "The complete book of massage" shelved.
+From Google
+{
+	"title": "Early Transcendentals",
+	"authors": [
+		"George B. Thomas, Jr.",
+		"William Ardis",
+		"Maurice D. Weir",
+		"Joel Hass"
+	],
+	"publisher": "Addison-Wesley",
+	"publishedDate": "2010-05-01",
+	"description": "This manual contains completely worked-out solutions for all the odd-numbered exercises in the text, covering Chapters 1 11.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "032165692X"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780321656926"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 362,
+	"printType": "BOOK",
+	"categories": [
+		"Mathematics"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=a-YRQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=a-YRQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=a-YRQgAACAAJ&dq=isbn:9780321656926&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=a-YRQgAACAAJ&dq=isbn:9780321656926&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Early_Transcendentals.html?hl=&id=a-YRQgAACAAJ"
+}
+
+#1107 "Early Transcendentals" shelved.
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: 9781111724528]
+From Open Library
+{
+	"title": "The Malay dilemma",
+	"publishedDate": "2008",
+	"authors": [
+		"Mahathir bin Mohamad"
+	],
+	"description": "with a new preface",
+	"industryIdentifiers": [],
+	"pageCount": 236,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL22660180M/The_Malay_dilemma",
+	"infoLink": "https://openlibrary.org/books/OL22660180M/The_Malay_dilemma",
+	"publisher": "Marshall Cavendish Editions",
+	"language": "en"
+}
+
+#1150 "The Malay dilemma" shelved.
+From Open Library
+{
+	"title": "Calculus 1",
+	"publishedDate": "2006",
+	"authors": [],
+	"industryIdentifiers": [],
+	"pageCount": 666,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/7361935-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/7361935-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL25761460M/Calculus_1",
+	"infoLink": "https://openlibrary.org/books/OL25761460M/Calculus_1",
+	"publisher": "Wiley India",
+	"language": "unknown"
+}
+
+#1114 "Calculus 1" shelved.
+From Open Library
+{
+	"title": "The immortal life of Henrietta Lacks",
+	"publishedDate": "2009",
+	"authors": [
+		"Rebecca Skloot"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL23962107M/The_immortal_life_of_Henrietta_Lacks",
+	"infoLink": "https://openlibrary.org/books/OL23962107M/The_immortal_life_of_Henrietta_Lacks",
+	"publisher": "Crown Publishers",
+	"language": "en"
+}
+
+#1137 "The immortal life of Henrietta Lacks" shelved.
+From Open Library
+{
+	"title": "Calculus",
+	"publishedDate": "2000",
+	"authors": [
+		"Dale E. Varberg"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 796,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6956265-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6956265-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/calculus00varb",
+	"infoLink": "https://openlibrary.org/books/OL24936736M/Calculus",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1119 "Calculus" shelved.
+From Open Library
+{
+	"title": "Statistics",
+	"publishedDate": "1995",
+	"authors": [
+		"Robert L. Wardrop"
+	],
+	"description": "learning in the presence of variation",
+	"industryIdentifiers": [],
+	"pageCount": 662,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6998300-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6998300-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/statisticslearni00ward",
+	"infoLink": "https://openlibrary.org/books/OL1442240M/Statistics",
+	"publisher": "Wm. C. Brown",
+	"language": "en"
+}
+
+#1096 "Statistics" shelved.
+From Wildcat
+{
+	"title": "A mathematical introduction to logic",
+	"publishedDate": "2006",
+	"authors": [
+		[
+			"Herbert B. Enderton."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Elsevier",
+	"language": "en"
+}
+
+#1090 "A mathematical introduction to logic" shelved.
+From Open Library
+{
+	"title": "Miller & Freund's probability and statistics for engineers",
+	"publishedDate": "2000",
+	"authors": [
+		"Irwin Miller"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 622,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL18139700M/Miller_Freund's_probability_and_statistics_for_engineers",
+	"infoLink": "https://openlibrary.org/books/OL18139700M/Miller_Freund's_probability_and_statistics_for_engineers",
+	"publisher": "Prentice Hall",
+	"language": "en"
+}
+
+#1093 "Miller & Freund's probability and statistics for engineers" shelved.
+From Open Library
+{
+	"title": "Film art",
+	"publishedDate": "2009",
+	"authors": [
+		"David Bordwell"
+	],
+	"description": "an introduction",
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL24117546M/Film_art",
+	"infoLink": "https://openlibrary.org/books/OL24117546M/Film_art",
+	"publisher": "McGraw-Hill Higher Education",
+	"language": "en"
+}
+
+#1159 "Film art" shelved.
+From Open Library
+{
+	"title": "Open letters",
+	"publishedDate": "1992",
+	"authors": [
+		"Václav Havel"
+	],
+	"description": "selected writings, 1965-1990",
+	"industryIdentifiers": [],
+	"pageCount": 415,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/420358-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/420358-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1566676M/Open_letters",
+	"infoLink": "https://openlibrary.org/books/OL1566676M/Open_letters",
+	"publisher": "Vintage Books",
+	"language": "en"
+}
+
+#1145 "Open letters" shelved.
+From Open Library
+{
+	"title": "Calculus with analytic geometry",
+	"publishedDate": "1994",
+	"authors": [
+		"Ellis, Robert"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 1024,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/19874-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/19874-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1445139M/Calculus_with_analytic_geometry",
+	"infoLink": "https://openlibrary.org/books/OL1445139M/Calculus_with_analytic_geometry",
+	"publisher": "Saunders College Pub.",
+	"language": "en"
+}
+
+#1094 "Calculus with analytic geometry" shelved.
+From Open Library
+{
+	"title": "Introduction to philosophy",
+	"publishedDate": "1999",
+	"authors": [],
+	"description": "classical and contemporary readings",
+	"industryIdentifiers": [],
+	"pageCount": 824,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/123666-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/123666-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL699310M/Introduction_to_philosophy",
+	"infoLink": "https://openlibrary.org/books/OL699310M/Introduction_to_philosophy",
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1110 "Introduction to philosophy" shelved.
+From Open Library
+{
+	"title": "The Heath handbook",
+	"publishedDate": "1990",
+	"authors": [
+		"Gerald P Mulderig"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 771,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/7106733-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/7106733-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/heathhandbook00muld",
+	"infoLink": "https://openlibrary.org/books/OL16695007M/The_Heath_handbook",
+	"publisher": "D.C. Heath and Co.",
+	"language": "en"
+}
+
+#1132 "The Heath handbook" shelved.
+From Open Library
+{
+	"title": "Chemistry",
+	"publishedDate": "2005",
+	"authors": [
+		"Moore, John W."
+	],
+	"description": "the molecular science",
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1273835-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1273835-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3698864M/Chemistry",
+	"infoLink": "https://openlibrary.org/books/OL3698864M/Chemistry",
+	"publisher": "Thompson Brooks/Cole",
+	"language": "en"
+}
+
+#1046 "Chemistry" shelved.
+[Error: no books found with isbn: 671203487]
+From Open Library
+{
+	"title": "Cracking the GRE math subject exam",
+	"publishedDate": "2000",
+	"authors": [
+		"Steven A. Leduc"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 438,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"previewLink": "https://openlibrary.org/books/OL23033648M/Cracking_the_GRE_math_subject_exam",
+	"infoLink": "https://openlibrary.org/books/OL23033648M/Cracking_the_GRE_math_subject_exam",
+	"publisher": "Random House",
+	"language": "en"
+}
+
+#1166 "Cracking the GRE math subject exam" shelved.
+[Error: no books found with isbn: ]
+From Open Library
+{
+	"title": "HTML, the definitive guide",
+	"publishedDate": "1997",
+	"authors": [
+		"Chuck Musciano"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 531,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/805668-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/805668-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/htmldefinitivegu00musc",
+	"infoLink": "https://openlibrary.org/books/OL767084M/HTML_the_definitive_guide",
+	"publisher": "O'Reilly",
+	"language": "en"
+}
+
+#1063 "HTML, the definitive guide" shelved.
+From Open Library
+{
+	"title": "MLA handbook for writers of research papers",
+	"publishedDate": "2003",
+	"authors": [
+		"Joseph Gibaldi"
+	],
+	"industryIdentifiers": [],
+	"pageCount": 361,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/664642-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/664642-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/mlahandbookforwrgibal00giba",
+	"infoLink": "https://openlibrary.org/books/OL3578364M/MLA_handbook_for_writers_of_research_papers",
+	"publisher": "Modern Language Association of America",
+	"language": "en"
+}
+
+#1082 "MLA handbook for writers of research papers" shelved.
+From Wildcat
+{
+	"title": "Dreams from my father : a story of race and inheritance",
+	"publishedDate": "2008",
+	"authors": [
+		[
+			"Barack Obama."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Canongate",
+	"language": "en"
+}
+
+#1141 "Dreams from my father : a story of race and inheritance" shelved.
+From Open Library
+{
+	"title": "A practical introduction to literary study",
+	"publishedDate": "2005",
+	"authors": [
+		"Brown, James S."
+	],
+	"industryIdentifiers": [],
+	"pageCount": 342,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/85425-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/85425-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL3310394M/A_practical_introduction_to_literary_study",
+	"infoLink": "https://openlibrary.org/books/OL3310394M/A_practical_introduction_to_literary_study",
+	"publisher": "Pearson/Prentice Hall",
+	"language": "en"
+}
+
+#1148 "A practical introduction to literary study" shelved.
+From Open Library
+{
+	"title": "The Black women's health book",
+	"publishedDate": "1994",
+	"authors": [],
+	"description": "speaking for ourselves",
+	"industryIdentifiers": [],
+	"pageCount": 375,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/924002-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/924002-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1418985M/The_Black_women's_health_book",
+	"infoLink": "https://openlibrary.org/books/OL1418985M/The_Black_women's_health_book",
+	"publisher": "Seal",
+	"language": "en"
+}
+
+#1129 "The Black women's health book" shelved.
+From Open Library
+{
+	"title": "EIT electrical review [for the fundamentals of engineering exam]",
+	"publishedDate": "1997",
+	"authors": [
+		"Lincoln D. Jones"
+	],
+	"industryIdentifiers": [],
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/1930539-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/1930539-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL6901234M/EIT_electrical_review_for_the_fundamentals_of_engineering_exam",
+	"infoLink": "https://openlibrary.org/books/OL6901234M/EIT_electrical_review_for_the_fundamentals_of_engineering_exam",
+	"publisher": "Engineering Press",
+	"language": "en"
+}
+
+#1111 "EIT electrical review [for the fundamentals of engineering exam]" shelved.
+From Open Library
+{
+	"title": "The Differential equations problem solver",
+	"publishedDate": "1992",
+	"authors": [],
+	"industryIdentifiers": [],
+	"pageCount": 1390,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/673611-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/673611-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL1572000M/The_Differential_equations_problem_solver",
+	"infoLink": "https://openlibrary.org/books/OL1572000M/The_Differential_equations_problem_solver",
+	"publisher": "Research and Education Association",
+	"language": "en"
+}
+
+#1105 "The Differential equations problem solver" shelved.
+From Open Library
+{
+	"title": "The Merriam-Webster dictionary of synonyms and antonyms.",
+	"publishedDate": "1992",
+	"authors": [],
+	"industryIdentifiers": [],
+	"pageCount": 443,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/671540-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/671540-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/merriamwebsterdi00merr_777",
+	"infoLink": "https://openlibrary.org/books/OL1461845M/The_Merriam-Webster_dictionary_of_synonyms_and_antonyms.",
+	"publisher": "Merriam-Webster",
+	"language": "en"
+}
+
+#1049 "The Merriam-Webster dictionary of synonyms and antonyms." shelved.
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+[Error: no books found with isbn: ]
+From Wildcat
+{
+	"title": "Kiso kara no sūgaku ni.",
+	"publishedDate": "2002",
+	"authors": [],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Sūken Shuppan",
+	"language": "unknown"
+}
+
+#1057 "Kiso kara no sūgaku ni." shelved.
+[Error: no books found with isbn: 8176810592]
+From Wildcat
+{
+	"title": "Kiso kara no sūgaku bī.",
+	"publishedDate": "1998",
+	"authors": [],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Sūken Shuppan",
+	"language": "unknown"
+}
+
+#1058 "Kiso kara no sūgaku bī." shelved.
+From Google
+{
+	"title": "A Short History of Nearly Everything",
+	"authors": [
+		"Bill Bryson"
+	],
+	"publisher": "Broadway",
+	"publishedDate": "2004",
+	"description": "The author of A Walk in the Woods traces the Big Bang through the rise of civilization, documenting his work with a host of the world's most advanced scientists and mathematicians to explain why things are the way they are. Reprint. 125,000 first printing.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_13",
+			"identifier": "9780767908184"
+		},
+		{
+			"type": "ISBN_10",
+			"identifier": "076790818X"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 544,
+	"printType": "BOOK",
+	"categories": [
+		"Science"
+	],
+	"averageRating": 4.5,
+	"ratingsCount": 36,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "0.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=YjAnfhsAQ8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=YjAnfhsAQ8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=YjAnfhsAQ8wC&printsec=frontcover&dq=isbn:076790818x&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=YjAnfhsAQ8wC&dq=isbn:076790818x&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/A_Short_History_of_Nearly_Everything.html?hl=&id=YjAnfhsAQ8wC"
+}
+
+#1091 "A Short History of Nearly Everything" shelved.
+From Open Library
+{
+	"title": "Word smart for the GRE",
+	"publishedDate": "2003",
+	"authors": [
+		"Anne Curtis"
+	],
+	"description": "a guide to perfect usage",
+	"industryIdentifiers": [],
+	"pageCount": 320,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6722030-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6722030-S.jpg"
+	},
+	"previewLink": "https://archive.org/details/wordsmartforgreg00curt",
+	"infoLink": "https://openlibrary.org/books/OL21170747M/Word_smart_for_the_GRE",
+	"publisher": "Random House",
+	"language": "en"
+}
+
+#1165 "Word smart for the GRE" shelved.
+From Google
+{
+	"title": "The Accounting Game",
+	"subtitle": "Basic Accounting Fresh from the Lemonade Stand",
+	"authors": [
+		"Darrell Mullis",
+		"Judith Orloff"
+	],
+	"publisher": "Sourcebooks, Inc.",
+	"publishedDate": "2008",
+	"description": "By using the world of a child's lemonade stand to teach the basics of finance management, this book makes key accounting basics fun and understandable.",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "1402211864"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9781402211867"
+		}
+	],
+	"readingModes": {
+		"text": true,
+		"image": false
+	},
+	"pageCount": 179,
+	"printType": "BOOK",
+	"categories": [
+		"Business & Economics"
+	],
+	"averageRating": 4,
+	"ratingsCount": 3,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "preview-1.0.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=1iAQpHW-HfkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=1iAQpHW-HfkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=1iAQpHW-HfkC&dq=isbn:9781402211867&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=1iAQpHW-HfkC&dq=isbn:9781402211867&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/The_Accounting_Game.html?hl=&id=1iAQpHW-HfkC"
+}
+
+#1115 "The Accounting Game" shelved.
+From Open Library
+{
+	"title": "Outliers",
+	"publishedDate": "2008",
+	"authors": [
+		"Malcolm Gladwell"
+	],
+	"description": "why some people succeed and some don't",
+	"industryIdentifiers": [],
+	"pageCount": 309,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {
+		"smallThumbnail": "https://covers.openlibrary.org/b/id/6581522-S.jpg",
+		"thumbnail": "https://covers.openlibrary.org/b/id/6581522-S.jpg"
+	},
+	"previewLink": "https://openlibrary.org/books/OL17030758M/Outliers",
+	"infoLink": "https://openlibrary.org/books/OL17030758M/Outliers",
+	"publisher": "Little, Brown and Co.",
+	"language": "en"
+}
+
+#1133 "Outliers" shelved.
+From Google
+{
+	"title": "Physical Geology",
+	"authors": [
+		"Charles C. Plummer",
+		"David McGeary",
+		"Diane H. Carlson"
+	],
+	"publishedDate": "2001",
+	"industryIdentifiers": [
+		{
+			"type": "ISBN_10",
+			"identifier": "0072904437"
+		},
+		{
+			"type": "ISBN_13",
+			"identifier": "9780072904437"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 578,
+	"printType": "BOOK",
+	"categories": [
+		"Physical geology"
+	],
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "1.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=X9fX3tOooLsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=X9fX3tOooLsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=X9fX3tOooLsC&dq=isbn:0072904437&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=X9fX3tOooLsC&dq=isbn:0072904437&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Physical_Geology.html?hl=&id=X9fX3tOooLsC"
+}
+
+#1124 "Physical Geology" shelved.
+From Google
+{
+	"title": "Instant Physics",
+	"subtitle": "From Aristotle to Einstein, and Beyond",
+	"authors": [
+		"Tony Rothman"
+	],
+	"publisher": "Ballantine Books",
+	"publishedDate": "1995",
+	"description": "For everyone who breaks out in a sweat at the thought of thermodynamics or quantum mechanics, now there's a concise and comprehensive text that's the ideal remedial remedy--guaranteed to produce advanced results. Filled with features such as chapter summaries, a who's who list, and biographical and historical tidbits, plus illustrations, photos, equations, and diagrams.",
+	"industryIdentifiers": [
+		{
+			"type": "OTHER",
+			"identifier": "UCSD:31822025995747"
+		}
+	],
+	"readingModes": {
+		"text": false,
+		"image": false
+	},
+	"pageCount": 242,
+	"printType": "BOOK",
+	"categories": [
+		"Reference"
+	],
+	"averageRating": 5,
+	"ratingsCount": 1,
+	"maturityRating": "NOT_MATURE",
+	"allowAnonLogging": false,
+	"contentVersion": "0.1.1.0.preview.0",
+	"imageLinks": {
+		"smallThumbnail": "http://books.google.com/books/content?id=CwFAAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "http://books.google.com/books/content?id=CwFAAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"language": "en",
+	"previewLink": "http://books.google.com/books?id=CwFAAQAAIAAJ&dq=isbn:0449906973&hl=&cd=1&source=gbs_api",
+	"infoLink": "http://books.google.com/books?id=CwFAAQAAIAAJ&dq=isbn:0449906973&hl=&source=gbs_api",
+	"canonicalVolumeLink": "http://books.google.com/books/about/Instant_Physics.html?hl=&id=CwFAAQAAIAAJ"
+}
+
+#1151 "Instant Physics" shelved.
+[Error: no books found with isbn: 0316181152]
+From Wildcat
+{
+	"title": "Oxford advanced learner's dictionary of current English",
+	"publishedDate": "2005",
+	"authors": [
+		[
+			"A.S. Hornby."
+		]
+	],
+	"description": null,
+	"industryIdentifiers": [],
+	"pageCount": null,
+	"printType": "BOOK",
+	"categories": [],
+	"imageLinks": {},
+	"publisher": "Oxford University Press",
+	"language": "en"
+}
+
+#1061 "Oxford advanced learner's dictionary of current English" shelved.
+Done!
+188 books shelved.

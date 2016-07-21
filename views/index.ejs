@@ -1,26 +1,20 @@
-<!DOCTYPE html>
+<% include head %>
 
-<html>
-<head>
-	<title>KHK Library</title>
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Orbitron">
-	<link rel="stylesheet" type="text/css" href="./public/stylesheets/style.css">
-</head>
-
-<body>
-
-<!-- Search form below with imagery.-->
-
-	<img id="khk-logo" src="./public/images/logo.svg" alt="KHK Logo">
-	<h1 class="library-name">LIBRARY</h1>
-	<form class="search" action="">
-		<input type="search" placeholder="Search here..." required>
-		<button type="submit">Search</button>
-	</form> 
-	<%= message %>  
+<body class=sbody>
+	<div class="logo">
+		<img class="khkimg" src="/images/khk_color_union.svg" />
+	</div>
+	<div class= "name">
+		<p class="searchtitle">KHK Delta Chapter Library Search Engine</p>
+	</div>
+	<div class="wrap">
+		<form class="search" action="/search-catalog" method="POST">
+			<input type="text" class="searchTerm" name="searchString" placeholder="What are you looking for?">
+			<button type="submit" class="searchButton">
+				<i class="fa fa-search"></i>Search
+			</button>
+		</form>
+	</div>
 </body>
 
-</html>
-
-
+<% include foot %>
