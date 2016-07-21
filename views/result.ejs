@@ -7,12 +7,12 @@
         <div class="extra">
             <ul class="extra-items">
                 <% if(books[i].authors){ %>
-                    <% JSON.parse(books[i].authors).forEach(function(author){ %>
-                        <span><%- author %></span><span>&middot;</span>
-                    <% }); %>
-                <% } %>
-                <li><%- unescape(books[i].publisher) %></li>
-                <li><%- unescape(books[i].published_date) %></li>
+                	<% JSON.parse(books[i].authors).forEach(function(author){ %>
+                        	<span><%- author %></span><span>&middot;</span>
+                    	<% }); %>
+		<% } %>
+                <span><%- unescape(books[i].publisher) %></span><span>&middot;</span>
+                <span><%- unescape(books[i].published_date) %></span>
             </ul>
         </div>
         <p><%- unescape(books[i].description) %></p>

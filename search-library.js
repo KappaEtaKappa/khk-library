@@ -47,18 +47,23 @@ library.get('/search-catalog', function(req, res){
                                   + "OR published_date LIKE ? "
                                   + ";";
     console.log(query);
-    var search = '%'+req.body.searchString+'%';
+    var search = '%'+req.query.searchString+'%';
     db.all(query, search, search, search, search, search, search, search, search, function(error, data){
         if (error){
             console.log(error);
         }
-        // console.log(data)
-        // for(var i=0; i<data.length; i++)
-        //     JSON.parse(unescape(data[i].authors)).forEach(function(author){
-        //         console.log(author);
-        //     });
+        console.log(data)
+        /*for(var i=0; i<data.length; i++)
+            if(data[i].authors)
+	    try{
+		JSON.parse(data[i].authors).forEach(function(author){
+                	console.log(author);
+		});
+	    } catch(e) {
+		data[i].authors = [data[i].authors.replace(/\]/g,"").replace(/\[/g,"")];
+	    }*/
         var ret = {books:data}
-        console.log(ret);
+        //console.log(ret);
         res.render('results', ret);
     });
 });

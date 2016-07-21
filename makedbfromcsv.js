@@ -60,7 +60,8 @@ db.serialize(function() {
 								 "preview_link TEXT,"+
 								 "info_link TEXT,"+
 								 "canonical_volume_link TEXT,"+
-								 "notes TEXT);");
+								 "notes TEXT,"+
+								 "api TEXT);");
 
 	fs.readFile("library_db.csv", "utf8", function(err, data){
 		if(err){ console.log(err); process.exit(1);}
@@ -84,7 +85,7 @@ db.serialize(function() {
 						if(val[1].length > 1) bookIsbn = val[1];
 						if(val[2].length > 1) bookIsbn = val[2];
 
-						isbn.resolve(bookIsbn,function(err, book){
+						isbn.resolve(bookIsbn,function(err, book, api){
 							if(err){ console.log(err); book={imageLinks:{}}; }
 							else console.log('\n#'+val[0]+' "'+book.title+'" shelved.')
 
@@ -115,8 +116,9 @@ db.serialize(function() {
 												"language,"+
 												"preview_link,"+
 												"info_link,"+
-												"canonical_volume_link"+
-											  ") VALUES ( ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,? );"
+												"canonical_volume_link,"+
+												"api"+
+											  ") VALUES ( ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,? );"
 											}catch(e){
 												console.log("Error on item " + i);
 												console.log("Data: ", val)
@@ -130,7 +132,7 @@ db.serialize(function() {
 											khkOrGoogleOrNull(val[2],undefined),
 											khkOrGoogleOrNull(val[3],undefined),
 											khkOrGoogleOrNull(val[4],book.title),
-											khkOrGoogleOrNull(val[5],JSON.stringify(book.authors), false),
+											khkOrGoogleOrNull(JSON.stringify([val[5]]),JSON.stringify(book.authors), false),
 											khkOrGoogleOrNull(val[6],undefined),
 											khkOrGoogleOrNull("",book.publisher),
 											khkOrGoogleOrNull("",book.publishedDate),
@@ -147,6 +149,7 @@ db.serialize(function() {
 											khkOrGoogleOrNull("",book.previewLink, true),
 											khkOrGoogleOrNull("",book.infoLink, true),
 											khkOrGoogleOrNull("",book.canonicalVolumeLink, true),
+											api,
 								 function(err){
 								if(err){ console.log(insert, err); process.exit(1);}
 								running--;
