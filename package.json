@@ -14,7 +14,6 @@
     "express": "~4.13.1",
     "isbndbjs": "^1.0.2",
     "morgan": "~1.6.1",
-    "node-isbn": "^1.2.0",
     "serve-favicon": "~2.3.0",
     "sqlite3": "^3.1.3",
     "term-spinner": "^1.0.0"

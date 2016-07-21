@@ -66,5 +66,5 @@ library.post('/search-catalog', function(req, res){
 
 module.exports = library;
 
-library.listen(8080)
+library.listen(6000);
 console.log("Server working");

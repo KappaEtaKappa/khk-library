@@ -1,0 +1,13 @@
+[Unit]
+Description=Library Catalog Daemon
+Type=forking
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/node /home/admin/khk-library/search-library.js
+ExecReload=/bin/kill -HUP $MAINPID
+KillMode=process
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
