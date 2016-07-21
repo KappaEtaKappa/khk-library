@@ -35,6 +35,7 @@ Result page CSS styles
     width: 89%;
     float: right;
 }
+
 .clearfix {
     clear: both;
 }
@@ -94,6 +95,7 @@ Search page CSS style
     display: block;
     overflow: hidden;
 }
+
 .searchtitle {
     text-align: center;
     width: 100%;
@@ -127,5 +129,4 @@ Search page CSS style
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     cursor: pointer;
-
 }
