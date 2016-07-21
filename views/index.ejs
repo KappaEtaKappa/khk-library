@@ -2,19 +2,15 @@
 
 <body class=sbody>
 	<div class="logo">
-		<img class="khkimg" src="/images/khk_color_union.svg" />
+		<img src="/images/khk_web2.png" />
 	</div>
-	<div class= "name">
-		<p class="searchtitle">KHK Delta Chapter Library Search Engine</p>
-	</div>
-	<div class="wrap">
-		<form class="search" action="/search-catalog" method="POST">
-			<input type="text" class="searchTerm" name="searchString" placeholder="What are you looking for?">
-			<button type="submit" class="searchButton">
-				<i class="fa fa-search"></i>Search
-			</button>
-		</form>
-	</div>
+	<h1 class="searchtitle">KHK Delta Chapter Library Search Engine</h1>
+	<form id="search" action="/search-catalog" method="POST">
+		<button type="submit" class="searchButton">
+			<i class="fa fa-search"></i>Search
+		</button>
+		<span><input type="text" class="searchTerm" name="searchString" placeholder="What are you looking for?"></span>
+	</form>
 </body>
 
 <% include foot %>
