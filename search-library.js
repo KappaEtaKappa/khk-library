@@ -35,8 +35,8 @@ library.get('/', function(req, res){
   res.render('index', {message:"fuck you ethan"})
 });
 
-library.post('/search-catalog', function(req, res){
-    console.log(req.body.searchString);
+library.get('/search-catalog', function(req, res){
+    console.log(req.query.searchString);
     var query = "SELECT * FROM library WHERE authors LIKE ? "
                                   + "OR title LIKE ? "
                                   + "OR description LIKE ? "
