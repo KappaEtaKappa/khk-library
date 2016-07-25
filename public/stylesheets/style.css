@@ -16,6 +16,23 @@ Result page CSS styles
     padding: 0px 50px 100px 50px;
 }
 
+ul {
+    -webkit-padding-start: 25px;
+}
+
+.isbn {
+    -webkit-padding-start: 0px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+.isbn > p {
+    -webkit-padding-start: 0px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+
 .queries {
     margin: 50px 0px 50px 0px;
     padding: 20px;
@@ -23,7 +40,7 @@ Result page CSS styles
     max-height: none;
 }
 
-.img-area {
+.preview {
     display:inline-block;
     width: 10%;
     float: left;
@@ -34,6 +51,10 @@ Result page CSS styles
     border: 1px solid black;
     width: 89%;
     float: right;
+}
+
+.googlelink {
+    text-align: center;
 }
 
 .clearfix {
@@ -52,7 +73,7 @@ span {
     font-family: : Open+Sans;
 }
 
-.imgarea img {
+.preview img {
     width: 100%;
 }
 

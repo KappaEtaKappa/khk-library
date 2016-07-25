@@ -1,11 +1,21 @@
 <div class="queries clearfix">
-    <div class="img-area">
+    <div class="preview">
         <img src="<%- unescape(books[i].thumbnail) %>">
+        <p class = "googlelink"><a href="<%- unescape(books[i].preview_link) %>">Google Link</a></p>
+        <ul class="isbn">
+            <p>ISBN-10</p>
+            <p><%- unescape(books[i].isbn_10) %></p>
+            <br>
+            <p>ISBN-13</p>
+            <p><%- unescape(books[i].isbn_13) %></p>
+        </ul>
     </div>
     <div class="info">
         <h1><%- unescape(books[i].title) %></h1>
         <div class="bootinfo">
             <ul class="authordate">
+<!--List the author, publisher, and date published by grabbing each object from the database corresponding to the
+for loop in the results.js file-->
                 <% if(books[i].authors){ %>
                 	<% JSON.parse(books[i].authors).forEach(function(author){ %>
                         	<span><%- author %></span><span>&middot;</span>
