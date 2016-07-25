@@ -1,3 +1,18 @@
+/*
+Name: search-library.js
+
+Programmers:
+Joe Dailey
+Ethan Erdmann
+
+Date/Semester: March 1st, 2016/Spring 2016 Semester
+
+Description:
+The main express app written in Javascript for the KHK Library Search Engine
+on the Kappa Server at the address of 10.0.0.12:6000.
+*/
+
+// Require all components to be used in the app
 var fs = require("fs");
 var sqlite3 = require("sqlite3").verbose();
 var file = __dirname + "/library.sqlite";
@@ -35,6 +50,7 @@ library.get('/', function(req, res){
   res.render('index', {message:"fuck you ethan"})
 });
 
+// Search function to query shelved books within these categories
 library.get('/search-catalog', function(req, res){
     console.log(req.query.searchString);
     var query = "SELECT * FROM library WHERE authors LIKE ? "
@@ -46,6 +62,9 @@ library.get('/search-catalog', function(req, res){
                                   + "OR industry_identifiers LIKE ? "
                                   + "OR published_date LIKE ? "
                                   + ";";
+
+// Reason for the multiple search variables in the db.all? Need to ask Joe about this
+
     console.log(query);
     var search = '%'+req.query.searchString+'%';
     db.all(query, search, search, search, search, search, search, search, search, function(error, data){
@@ -68,7 +87,7 @@ library.get('/search-catalog', function(req, res){
     });
 });
 
-
+// Port the server is working on and the console message if running
 module.exports = library;
 
 library.listen(6000);

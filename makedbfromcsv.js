@@ -1,3 +1,19 @@
+/*
+Name: MakeDBfromcsv.js
+
+Programmers:
+Joe Dailey
+Ethan Erdmann
+
+Date/Semester: March 1st, 2016/Spring 2016 Semester
+
+Description:
+Javascript code that creates a SQLlite database from a csv file consisting
+of book entries in the Kappa Eta Kappa library at Delta Chapter.
+Additional information is grabbed from book APIs consisting of Google,
+Amazon, and OpenLibrary.
+*/
+
 var sqlite3 = require('sqlite3').verbose();
 var csv_parse = require('csv-parse');
 var isbn = require('node-isbn');
@@ -35,6 +51,8 @@ function khkOrGoogleOrNaN(khk, google){
 global.running = 0;
 global.max = 40;
 
+// Create table "library" with the following field names and data types
+
 db.serialize(function() {
 	if(exists)
 		db.run("DROP TABLE library;");
@@ -63,18 +81,22 @@ db.serialize(function() {
 								 "notes TEXT,"+
 								 "api TEXT);");
 
+// Read the csv file and parse the data
+
 	fs.readFile("library_db.csv", "utf8", function(err, data){
 		if(err){ console.log(err); process.exit(1);}
 
 		csv_parse(data, function(err, data){
 			if(err){ console.log(err); process.exit(1);}
 
+// Unused code relating to the spinner function
 			// var spinnerInv = setInterval(function () {
 			// 	spinner.next();
 			// 	process.stdout.clearLine();
 			// 	process.stdout.cursorTo(0);
 			// 	process.stdout.write([spinner.current, "("+doneCount+"/"+188+")"+" Processing..."].join(" "));
 			// }, 100);
+
 			var doneCount = 1;
 			db.serialize(function(){
 
@@ -118,6 +140,7 @@ db.serialize(function() {
 												"info_link,"+
 												"canonical_volume_link,"+
 												"api"+
+// Forgot what the empty values are referencing
 											  ") VALUES ( ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,? );"
 											}catch(e){
 												console.log("Error on item " + i);
@@ -127,6 +150,7 @@ db.serialize(function() {
 												process.exit(1);
 											}
 							db.run(insert,
+// Insert the value from either the khk csv file or with Google, otherwise leave it as null
 											khkOrGoogleOrNaN(parseInt(val[0]),null),
 											khkOrGoogleOrNull(val[1],undefined),
 											khkOrGoogleOrNull(val[2],undefined),
@@ -150,7 +174,8 @@ db.serialize(function() {
 											khkOrGoogleOrNull("",book.infoLink, true),
 											khkOrGoogleOrNull("",book.canonicalVolumeLink, true),
 											api,
-								 function(err){
+// Exit the script once all books in the csv have been shelved and report the process in the console
+								function(err){
 								if(err){ console.log(insert, err); process.exit(1);}
 								running--;
 								doneCount++;
@@ -178,3 +203,5 @@ db.serialize(function() {
 		});
 	});
 });
+
+// End of script
