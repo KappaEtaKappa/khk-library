@@ -1,6 +1,16 @@
 <% include head %>
 
 <body class="rbody">
+    <div class="logo">
+        <img src="/images/khk_web2.png" />
+    </div>
+    <h1 class="searchtitle">KHK Delta Chapter Library Search Engine</h1>
+    <form id="search" action="/search-catalog" method="GET">
+		<button type="submit" class="searchButton">
+			<i class="fa fa-search"></i>Search
+		</button>
+		<span><input type="text" class="searchTerm" name="searchString" placeholder="What are you looking for?"></span>
+	</form>
     <div class="lib-main">
         <% for(var i=0; i<books.length; i++){ %>
             <% include result %>

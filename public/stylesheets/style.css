@@ -23,7 +23,7 @@ Result page CSS styles
     max-height: none;
 }
 
-.imgarea {
+.img-area {
     display:inline-block;
     width: 10%;
     float: left;
@@ -38,30 +38,36 @@ Result page CSS styles
 
 .clearfix {
     clear: both;
+    overflow: auto;
 }
 
-.extra {
-    margin-left: -15px;
+.bookinfo > authordate {
+    margin: 0 25px 0px 25px;
+}
+
+span {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px;
+    font-family: : Open+Sans;
 }
 
 .imgarea img {
     width: 100%;
 }
 
-.info > h1 p {
-    margin-left: 25px;
-    font-weight: bold;
+.info > h1 {
+    margin: 25px 25px 25px 25px;
+    font-size: 24px;
+    font-family: : Open+Sans;
 }
 
-.info > ul li {
-    margin: 0 25px 0 0;
-    display: inline;
-    list-style-type: none;
-    font-style: italic;
-    font-size: 16px;
-    font-weight: bold;
+.info > p {
+    margin: 0 25px 25px 25px;
+    text-align: left;
+    font-size: 20px;
+    font-family: : Open+Sans;
 }
-
 
 /*
 Search page CSS style
@@ -83,6 +89,8 @@ Search page CSS style
 .logo img {
     width: 100%;
 }
+
+/*Main page search button stle*/
 
 #search {
     display: table;

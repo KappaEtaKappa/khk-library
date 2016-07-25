@@ -90,5 +90,5 @@ library.get('/search-catalog', function(req, res){
 // Port the server is working on and the console message if running
 module.exports = library;
 
-library.listen(6000);
+library.listen(3000);
 console.log("Server working");

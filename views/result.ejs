@@ -1,11 +1,11 @@
 <div class="queries clearfix">
-    <div class="imgarea">
+    <div class="img-area">
         <img src="<%- unescape(books[i].thumbnail) %>">
     </div>
     <div class="info">
         <h1><%- unescape(books[i].title) %></h1>
-        <div class="extra">
-            <ul class="extra-items">
+        <div class="bootinfo">
+            <ul class="authordate">
                 <% if(books[i].authors){ %>
                 	<% JSON.parse(books[i].authors).forEach(function(author){ %>
                         	<span><%- author %></span><span>&middot;</span>
