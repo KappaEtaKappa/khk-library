@@ -4,7 +4,7 @@ Type=forking
 After=network.target
 
 [Service]
-ExecStart=/usr/bin/node /home/admin/khk-library/search-library.js
+ExecStart=/usr/bin/node /opt/khk-web/khk-library/search-library.js
 ExecReload=/bin/kill -HUP $MAINPID
 KillMode=process
 Restart=always
