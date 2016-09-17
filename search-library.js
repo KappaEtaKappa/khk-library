@@ -44,6 +44,16 @@ library.use(bodyParser.urlencoded({ extended: false }));
 library.use(cookieParser());
 library.use(express.static(path.join(__dirname, 'public')));
 
+
+global.ssa = {};
+try {
+  global.ssa = require("../khk-ssa/khk-access/index.js")();
+} catch(e) {
+  console.log("Failed to contact khk-ssa, please clone it from the repo adjacent to this folder.");
+}
+library.use(ssa.navbar("Catalog"));
+
+
 /////////START ROUTES\\\\\\\\\\
 
 library.get('/', function(req, res){
