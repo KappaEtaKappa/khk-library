@@ -51,7 +51,7 @@ try {
 } catch(e) {
   console.log("Failed to contact khk-ssa, please clone it from the repo adjacent to this folder.");
 }
-library.use(ssa.navbar("Catalog"));
+library.use(ssa.navbar("Library"));
 
 
 /////////START ROUTES\\\\\\\\\\
