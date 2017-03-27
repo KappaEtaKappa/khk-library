@@ -1,7 +1,7 @@
-###About
+### About
 >The library app can be found at library.d.khk.org and was built to generate a searchable database of all academic books within the library at the Delta Chapter. The app is lightweight, requiring only a searchable string (i.e. author, title, text descriptor, or other).  Books are listed by relevance and include images, ISBN numbers, and a link to the google books database for further information.
 
-##Installation
+## Installation
 ```bash
 $ git clone git@github.com:KappaEtaKappa/khk-library.git
 ```
