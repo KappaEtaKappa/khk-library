@@ -46,6 +46,8 @@ else
   exit 1
 fi
 
+cd ..
+
 echo :: Loading Known Books from library_db.csv
 node makedbfromcsv.js
 

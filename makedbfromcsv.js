@@ -2,7 +2,6 @@
 Name: MakeDBfromcsv.js
 
 Programmers:
-Joe Dailey
 Ethan Erdmann
 
 Date/Semester: March 1st, 2016/Spring 2016 Semester
@@ -83,8 +82,8 @@ db.serialize(function() {
 
 // Read the csv file and parse the data
 
-	fs.readFile("library_db.csv", "utf8", function(err, data){
-		if(err){ console.log(err); process.exit(1);}
+	fs.readFile(__dirname + "/library_db.csv", "utf8", function(err, data){
+		if(err){console.log(err); process.exit(1);}
 
 		csv_parse(data, function(err, data){
 			if(err){ console.log(err); process.exit(1);}
