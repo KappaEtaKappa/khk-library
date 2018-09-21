@@ -1,5 +1,5 @@
 {
-  "name": "khk_library",
+  "name": "the.delta.khk.org-library",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,7 @@
     "morgan": "~1.6.1",
     "node-isbn": "^1.2.0",
     "serve-favicon": "~2.3.0",
-    "sqlite3": "^3.1.11",
+    "sqlite": "^3.1.11",
     "term-spinner": "^1.0.0"
   }
 }
